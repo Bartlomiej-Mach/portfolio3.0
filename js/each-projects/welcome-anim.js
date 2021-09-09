@@ -3,8 +3,8 @@ const tl = gsap.timeline();
 const text = document.querySelector('.subheading-text');
 // header text
 
-tl.from('.heading-text', {
-    height: 0,
+tl.to('.heading-text', {
+    height: 120,
     delay: 0.4,
     duration: 0.2,
 });
