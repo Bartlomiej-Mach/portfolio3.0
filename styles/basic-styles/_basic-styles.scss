@@ -1,0 +1,159 @@
+@import 
+    '../fonts/fonts',
+    '../colors/colors';
+
+
+p {
+    font-size: 20px;
+    font-family: $font1;
+    color: $color1;
+    @include smaller-than-500 {
+        font-size: 15px;
+    }
+}
+h2 {
+    font-size: 40px;
+    font-family: $font2;
+    color: $color1;
+    font-weight: normal;
+    line-height: 40px;
+    @include smaller-than-960 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+    @include smaller-than-500 {
+        font-size: 25px;
+        line-height: 25px;
+    }
+}
+h3 {
+    font-family: $font3;
+    font-size: 32px;
+    text-transform: uppercase;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 145px;
+    height: 60px;
+    overflow: hidden;
+    transition: .8s;
+    font-weight: normal;
+    &::before {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+        height: 2px;
+        background: $color1;
+    }
+}
+h4 {
+    font-family: $font1;
+    font-size: 25px;
+    color: $color1;
+    @include smaller-than-500 {
+        font-size: 20px;
+    }
+}
+
+
+
+.header-section-h1 {
+    font-family: $font3;
+    font-size: 85px;
+    color: $color1;
+    @include smaller-than-960 {
+        font-size: 60px;
+    }
+}
+
+
+.next-section {
+    position: absolute;
+    bottom: 120px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-family: $font1;
+    font-size: 20px;
+    @include center();
+    overflow: hidden;
+    transition: .2s;
+    opacity: 1;
+    &::after {
+        content: '';
+        background: $color1;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        left: 0;
+        transform: translateX(-105%);
+        z-index: -1;
+    }
+    &:hover::after {
+        animation: nav-anim .3s ease-in-out forwards;
+    }
+}
+
+.next-section--active {
+    display: none;
+    opacity: 0;
+}
+
+.page-button {
+        font-family: $font3;
+        font-size: 32px;
+        text-transform: uppercase;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 145px;
+        height: 60px;
+        overflow: hidden;
+        transition: .8s;
+    
+        &:hover {
+            background: linear-gradient(to right, rgb(255, 255, 255));
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-repeat: no-repeat;
+            background-size: 80%;
+            animation: shine .3s linear forwards;
+        }
+    
+        &:hover::before {
+            transform: translateX(200%);
+            transition: .8s;
+        }
+        &:hover::after {
+            transform: translateX(0%);
+            transition: .8s;
+        }
+        &::before {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+            height: 2px;
+            background: $color1;
+        }
+        &::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+            height: 2px;
+            background: $color1;
+            transform: translateX(-200%);
+        }
+}
+
+.section-zoom-out {
+    transition: .3s;
+}
+.section-zoom-out--active {
+    transform: scale(0.5);
+    opacity: 0.2;
+}

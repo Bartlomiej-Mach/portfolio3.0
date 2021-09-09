@@ -1,0 +1,57 @@
+@import 
+    '../fonts/fonts',
+    '../colors/colors';
+
+
+body, html {
+    width: 100%;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    position: relative;
+    scroll-behavior: smooth;
+    
+}
+
+*,
+::after,
+::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+span,
+a,
+p {
+    color: $color1;
+}
+a {
+    text-decoration: none;
+}
+
+
+
+
+body::-webkit-scrollbar {
+    width: 5px;
+    background: $color2;
+  }
+body::-webkit-scrollbar-thumb {
+    background: #fff;
+    
+}
+
+
+@keyframes shine {
+  0% {
+    background-position-x: -300%;
+  }
+  100% {
+    background-position-x: 95%;
+  }
+}

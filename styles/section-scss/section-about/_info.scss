@@ -1,0 +1,96 @@
+.info-section {
+    width: 100%;
+    @include center();
+    padding: 50px 0;
+    &__content-container {
+        max-width: 915px;
+        position: relative;
+        @include center-column();
+        @include smaller-than-960 {
+            width: 90%;
+        }
+        .info-wrapper {
+            max-width: 760px;
+            position: relative;
+            margin-bottom: 140px;
+            .info-paragraph {
+                margin: 70px 0 40px 0;
+            }
+            .button-container {
+                position: absolute;
+                right: 0;
+            }
+        }
+        .scroll-img-wrapper {
+            width: 100%;
+            margin-bottom: 70px;
+            .scroll-img {
+                width: 100%;
+            }
+        }
+        .social-info-wrapper {
+            @include center-right-column();
+            position: relative;
+            .info-paragraph {
+                .colored-link {
+                    color: #5072bb;
+                }
+            }
+            .info-social-wrapper {
+                width: 100%;
+                @include center();
+                .info-social-link {
+                    font-size: 40px;
+                    margin-right: 40px;
+                    
+                    &:last-child {
+                        margin-right: 0;   
+                    }
+                    &:hover:first-child {
+                        color: #3b5998;
+                    }
+                    &:hover:last-child {
+                        background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+                        display: inline;
+                        -webkit-background-clip: text;
+                        -moz-background-clip: text;
+                        background-clip: text;
+                        -webkit-text-fill-color:transparent;
+                    }
+                }
+            }
+        }
+
+        .video-wrapper {
+            width: 100%;
+            margin-bottom: 70px;
+            cursor: pointer;
+            .video-main--item {
+                width: 100%;
+            }
+        }
+        .skills-info-wrapper {
+            position: relative;
+            width: 100%;
+            .skill-content-wrapper {
+                margin-top: 100px;
+               .skill-name {
+                   margin: 40px 0 20px 0;
+               }
+            }
+            .button-back-wrapper {
+                margin-top: 70px;
+                position: relative;
+                width: 100%;
+                @include center();
+                @include smaller-than-425 {
+                    @include center-column();
+                }
+                .button-container {
+                    position: relative;
+                    margin: 20px;
+                }
+            }
+        }
+    }
+}

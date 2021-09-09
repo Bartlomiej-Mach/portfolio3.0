@@ -1,0 +1,20 @@
+.home-logo-anim {
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+    left: 0;
+    top: 0;
+    background: $color2;
+    z-index: 400;
+    @include center-column();
+    .studio-name-wrapper {
+        overflow: hidden;
+        margin-top: 15px;
+        .studio-name {
+            font-family: $font1;
+            font-size: 34px;
+            font-weight: bold;
+            display: inline-block;
+        }
+    }
+}

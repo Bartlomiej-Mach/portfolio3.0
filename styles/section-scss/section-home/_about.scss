@@ -1,0 +1,29 @@
+.about-section {
+    width: 100%;
+    height: 100vh;
+    @include center-column();
+    position: relative;
+    min-height: 900px;
+    &__content-container {
+        max-width: 890px;
+        max-height: 500px;
+        height: 100%;
+        width: 100%;
+        position: relative;
+        @include smaller-than-960 {
+            width: 90%;
+        }
+        .button-container {
+            position: absolute;
+            left: 0;
+            top: 0;
+        }
+        .text-container {
+            position: absolute;
+            right: 0;
+            top: 50%;
+            transform: translateY(-50%);
+            
+        }
+    }
+}

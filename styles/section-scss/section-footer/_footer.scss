@@ -1,0 +1,10 @@
+.footer-section {
+    position: fixed;
+    left: 30px;
+    bottom: 30px;
+    font-family: $font1;
+    font-size: 10px;
+    .colored-footer-text {
+        color: #a39f9f;
+    }
+}

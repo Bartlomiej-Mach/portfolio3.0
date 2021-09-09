@@ -1,0 +1,59 @@
+body {
+    background: $color2;
+}
+.all-projects-section {
+    width: 100%;
+    padding: 150px 0;
+    @include center();
+    z-index: 3;
+    position: relative;
+    &__content-container {
+        max-width: 1140px;
+        padding: 0 30px;
+        .project-floor {
+            @include center();
+            height: 350px;
+            .project-link {
+                width: 50%;
+                height: 100%;
+                @include center();
+                .project-img-wrapper {
+                    width: 60%;
+                    height: 185px;
+                    overflow: hidden;
+                    .project-img-link {
+                        width: 100%;
+                    }
+                }
+                .project-name-wrapper {
+                    font-family: $font2;
+                    font-size: 30px;
+                    position: absolute;
+                    text-transform: uppercase;
+                    font-weight: bold;
+                    overflow: hidden;
+                    .project-name {
+                        transform: translateY(105%);
+                        display: inline-block;
+                        transition: .2s;
+                    }
+                }
+                &:hover .project-name {
+                    transform: translateY(0%);
+                }
+            }
+            .project-1-color {
+                background: #BA976D;
+            }
+            .project-2-color {
+                background: #7E2AA6;
+            }
+            .project-3-color {
+                background: #52D258;
+            }
+            .project-4-color {
+                background: #57ABB7;
+            }
+        }
+    }
+}

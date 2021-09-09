@@ -1,0 +1,50 @@
+.header-section {
+    width: 100%;
+    height: 100vh;
+    @include center-column();
+    position: relative;
+    &__content-container {
+        max-width: 760px;
+        position: relative;
+        @include smaller-than-960 {
+            width: 90%;
+        }
+        .button-container {
+            position: absolute;
+            right: 0;
+            bottom: 0;
+        }
+        .mail-wrapper {
+            font-family: $font1;
+            font-size: 25px;
+            margin: 50px 0 40px 0;
+            opacity: 1;
+            @include smaller-than-500 {
+                font-size: 20px;
+            }
+            .mail-link {
+                transition: .2s;
+                opacity: .6;
+                &:hover {
+                    opacity: 1;
+                }
+            }
+        }
+        .social-media-wrapper {
+            font-size: 30px;
+            .social-media-link {
+                margin-right: 20px;
+                opacity: 0.8;
+                transition: .2s;
+                &:hover {
+                    opacity: 1;
+                }
+                &:last-child {
+                    margin-right: 0;
+                }
+            }
+            
+        }
+    }
+
+}

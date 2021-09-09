@@ -1,0 +1,126 @@
+body {
+    overflow: hidden;
+}
+.header-section {
+    width: 100%;
+    height: 100vh;
+    @include center-column();
+    position: relative;
+    overflow: hidden;
+    &__content-container {
+        max-width: 890px;
+        position: relative;
+        transition: .1s;
+        overflow: hidden;
+        @include smaller-than-600 {
+            width: 100%;
+        }
+        .slider-wrapper {
+            position: relative;
+            width: 750px;
+            height: 420px;
+            max-width: 750px;
+            max-height: 420px;
+            @include center();
+            @include smaller-than-800 {
+                width: 600px;
+            }
+            @include smaller-than-600 {
+                width: 100%;
+                height: 320px;
+            }
+            .mySwiper2 {
+                width: 100%;
+                height: 100%;
+                
+                .swiper-wrapper {
+                    width: 100%;
+                    height: 100%;
+                    .swiper-slide{
+                        width: 100%;
+                        height: 100%;
+                        position: relative;
+                        @include center();
+                        overflow: hidden;
+                        &::before {
+                            content: '';
+                            width: 110%;
+                            height: 100%;
+                            background: $color2;
+                            opacity: 0.6;
+                            position: absolute;
+                            left: 0;
+                            top: 0;
+                            transform: translateX(-115%);
+                            transition: .3s;
+                            clip-path: polygon(0 0, 100% 0, 93% 100%, 0% 100%);
+
+                        }
+                        &:hover::before {
+                            transform: translateX(0);
+                        }
+                        .project-name {
+                            font-family: $font2;
+                            font-size: 70px;
+                            position: absolute;
+                            left: 5%;
+                            @include smaller-than-600 {
+                                font-size: 50px !important;
+                            }
+                        }
+                        .slide-img-bg {
+                            width: 100%;
+                            z-index: -1;
+                            position: relative;
+                            
+                        }
+                        .bg-img {
+                            width: 100%;
+                            height: 100%;
+                            background-position: center;
+                            background-repeat: no-repeat;
+                            background-size: cover;
+                        }
+                        .project-1 {
+                            background-image: url('../../../assets/imgs/projects/project-1.png');
+                        }
+                        .project-2 {
+                            background-image: url('../../../assets/imgs/projects/project-2.png');
+                        }
+                        .project-3 {
+                            background-image: url('../../../assets/imgs/projects/project-3.png');
+                        }
+                        .project-4 {
+                            background-image: url('../../../assets/imgs/projects/all.png');
+                        }
+                    }
+                }
+                
+            }
+        }
+        
+        .navigation-buttons-wrapper {
+            width: 100%;
+            @include center();
+            margin-top: 130px;
+            @include smaller-than-600 {
+                display: none;
+            }
+            .navigation-btn {
+                border: none;
+                background: transparent;
+                font-family: $font1;
+                font-size: 20px;
+                color: $color1;
+                margin-right: 20px;
+                cursor: pointer;
+                &:last-child {
+                    margin-right: 0;
+                }
+            }
+        }
+        .slider-wrapper--active {
+            opacity: 0;
+        }
+    }
+}

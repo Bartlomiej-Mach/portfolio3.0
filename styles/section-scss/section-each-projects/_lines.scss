@@ -1,0 +1,51 @@
+.vertical-lines {
+    width: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 1;
+    .ver-line-all {
+        width: 1px;
+        height: 100vh;
+        background: rgba($color: $color1, $alpha: .2);
+        position: absolute;
+        overflow: hidden;
+        &::before {
+            width: 1px;
+            height: 40px;
+            content: '';
+            background: linear-gradient(0.03deg, #FFFFFF 0.03%, rgba(255, 255, 255, 0) 99.97%);
+            position: absolute;
+            top: -50px;
+        }
+        &:nth-child(1) {
+            left: 25%;
+            &::before {
+                animation: animation-lines 10s ease-in-out infinite;
+            }
+
+        }
+        &:nth-child(2) {
+            left: 50%;
+            &::before {
+                animation: animation-lines 10s ease-in-out infinite;
+                animation-delay: 6s;
+            }
+        }
+        &:nth-child(3) {
+            left: 75%;
+            &::before {
+                animation: animation-lines 10s ease-in-out infinite;
+                animation-delay: 3s;
+            }
+        }
+    }
+}
+
+@keyframes animation-lines {
+    form {
+        top: -50px;
+    } to {
+        top: 105%;
+    }
+}

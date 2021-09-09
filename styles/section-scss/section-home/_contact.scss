@@ -1,0 +1,68 @@
+.contact-section {
+    width: 100%;
+    height: 100vh;
+    @include center-column();
+    position: relative;
+    overflow: hidden;
+    min-height: 900px;
+    &__content-container {
+        max-width: 890px;
+        max-height: 500px;
+        height: 100%;
+        width: 100%;
+        position: relative;
+        @include center();
+        @include smaller-than-960 {
+            width: 90%;
+        }
+        .slider-container {
+            position: absolute;
+            left: 0;
+            top: 0;
+            font-family: $font1;
+            @include center();
+            font-size: 20px;
+            @include smaller-than-500 {
+                font-size: 15px;
+            }
+            .pre-slider-text {
+                width: 280px;
+                height: 23px;
+                @include smaller-than-500 {
+                    width: 210px;
+                }
+            }
+            .slider--wrapper {
+                width: 100%;
+                height: 23px;
+                .swiper-wrapper {
+                    width: 100%;
+                }
+                .slider--item {
+                    padding-left: 6px;
+                    color: $color3;
+                    width: 100%;
+                    height: 23px;
+                }
+            }
+        }
+        .section-name-container {
+            .section-name {
+                font-family: $font4;
+                font-size: 6vw;
+                transition: .2s;
+                @include smaller-than-960 {
+                    font-size: 60px;
+                }
+                &:hover {
+                    text-shadow: 0px 0px 10px $color1;
+                }
+            }
+        }
+        .button-container {
+            position: absolute;
+            right: 0;
+            bottom: 0;
+        }
+    }
+}
