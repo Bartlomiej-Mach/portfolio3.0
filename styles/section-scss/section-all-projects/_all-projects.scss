@@ -10,20 +10,38 @@ body {
     &__content-container {
         max-width: 1140px;
         padding: 0 30px;
+        @include smaller-than-425 {
+            padding: 0;
+        }
         .project-floor {
             @include center();
             height: 350px;
-            @include smaller-than-1150 {
+            @include smaller-than-1050 {
                 @include center-column();
+                height: 700px;
             }
+            @include smaller-than-480 {
+                height: 500px;
+            }
+            
             .project-link {
                 width: 50%;
                 height: 100%;
                 @include center();
+                @include smaller-than-800 {
+                    width: 80%;
+                }
+
                 .project-img-wrapper {
                     width: 60%;
                     height: 185px;
                     overflow: hidden;
+                    @include center();
+                    @include smaller-than-800 {
+                        width: 70%;
+                    }
+                    
+                    
                     .project-img-link {
                         width: 100%;
                     }
