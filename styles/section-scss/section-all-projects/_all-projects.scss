@@ -13,6 +13,9 @@ body {
         .project-floor {
             @include center();
             height: 350px;
+            @include smaller-than-1150 {
+                @include center-column();
+            }
             .project-link {
                 width: 50%;
                 height: 100%;
