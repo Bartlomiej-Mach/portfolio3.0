@@ -7,6 +7,9 @@
     z-index: 1;
     &__content-container {
         max-width: 760px;
+        @include smaller-than-960 {
+            width: 90%;
+        }
         .subheading-text {
             z-index: 2;
             position: relative;

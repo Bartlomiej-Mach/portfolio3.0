@@ -86,15 +86,15 @@ body::-webkit-scrollbar-thumb {
 }
 
 .tri:nth-child(1) {
-  border-top: 7px solid #00bbff;
-  border-right: 7px solid transparent;
-  border-left: 7px solid transparent;
-  margin-left: -3.5px;
-  margin-top: -3.5px;
+  border-top: 74px solid #ffd500;
+  border-right: 74px solid transparent;
+  border-left: 74px solid transparent;
+  margin-left: -37px;
+  margin-top: -37px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(206deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(206deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(149deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(149deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim1 120s infinite linear;
           animation: anim1 120s infinite linear;
   -webkit-animation-delay: -1.2s;
@@ -105,29 +105,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim1 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(309deg) translate3d(861px, 103px, 1000px) scale(1);
-            transform: rotate(309deg) translate3d(861px, 103px, 1000px) scale(1);
+    -webkit-transform: rotate(223.5deg) translate3d(198px, 715px, 1000px) scale(1);
+            transform: rotate(223.5deg) translate3d(198px, 715px, 1000px) scale(1);
   }
 }
 
 @keyframes anim1 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(309deg) translate3d(861px, 103px, 1000px) scale(1);
-            transform: rotate(309deg) translate3d(861px, 103px, 1000px) scale(1);
+    -webkit-transform: rotate(223.5deg) translate3d(198px, 715px, 1000px) scale(1);
+            transform: rotate(223.5deg) translate3d(198px, 715px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(2) {
-  border-top: 18px solid #9100ff;
-  border-right: 18px solid transparent;
-  border-left: 18px solid transparent;
-  margin-left: -9px;
-  margin-top: -9px;
+  border-top: 4px solid #aa00ff;
+  border-right: 4px solid transparent;
+  border-left: 4px solid transparent;
+  margin-left: -2px;
+  margin-top: -2px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(270deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(270deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(233deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(233deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim2 120s infinite linear;
           animation: anim2 120s infinite linear;
   -webkit-animation-delay: -2.4s;
@@ -138,29 +138,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim2 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(405deg) translate3d(381px, 290px, 1000px) scale(1);
-            transform: rotate(405deg) translate3d(381px, 290px, 1000px) scale(1);
+    -webkit-transform: rotate(349.5deg) translate3d(254px, 475px, 1000px) scale(1);
+            transform: rotate(349.5deg) translate3d(254px, 475px, 1000px) scale(1);
   }
 }
 
 @keyframes anim2 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(405deg) translate3d(381px, 290px, 1000px) scale(1);
-            transform: rotate(405deg) translate3d(381px, 290px, 1000px) scale(1);
+    -webkit-transform: rotate(349.5deg) translate3d(254px, 475px, 1000px) scale(1);
+            transform: rotate(349.5deg) translate3d(254px, 475px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(3) {
-  border-top: 74px solid #bfff00;
-  border-right: 74px solid transparent;
-  border-left: 74px solid transparent;
-  margin-left: -37px;
-  margin-top: -37px;
+  border-top: 75px solid #00ffea;
+  border-right: 75px solid transparent;
+  border-left: 75px solid transparent;
+  margin-left: -37.5px;
+  margin-top: -37.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(238deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(238deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(278deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(278deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim3 120s infinite linear;
           animation: anim3 120s infinite linear;
   -webkit-animation-delay: -3.6s;
@@ -171,29 +171,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim3 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(357deg) translate3d(643px, 684px, 1000px) scale(1);
-            transform: rotate(357deg) translate3d(643px, 684px, 1000px) scale(1);
+    -webkit-transform: rotate(417deg) translate3d(570px, 789px, 1000px) scale(1);
+            transform: rotate(417deg) translate3d(570px, 789px, 1000px) scale(1);
   }
 }
 
 @keyframes anim3 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(357deg) translate3d(643px, 684px, 1000px) scale(1);
-            transform: rotate(357deg) translate3d(643px, 684px, 1000px) scale(1);
+    -webkit-transform: rotate(417deg) translate3d(570px, 789px, 1000px) scale(1);
+            transform: rotate(417deg) translate3d(570px, 789px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(4) {
-  border-top: 31px solid #ff000d;
-  border-right: 31px solid transparent;
-  border-left: 31px solid transparent;
-  margin-left: -15.5px;
-  margin-top: -15.5px;
+  border-top: 25px solid #00ff51;
+  border-right: 25px solid transparent;
+  border-left: 25px solid transparent;
+  margin-left: -12.5px;
+  margin-top: -12.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(313deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(313deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(126deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(126deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim4 120s infinite linear;
           animation: anim4 120s infinite linear;
   -webkit-animation-delay: -4.8s;
@@ -204,29 +204,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim4 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(469.5deg) translate3d(835px, 80px, 1000px) scale(1);
-            transform: rotate(469.5deg) translate3d(835px, 80px, 1000px) scale(1);
+    -webkit-transform: rotate(189deg) translate3d(107px, 91px, 1000px) scale(1);
+            transform: rotate(189deg) translate3d(107px, 91px, 1000px) scale(1);
   }
 }
 
 @keyframes anim4 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(469.5deg) translate3d(835px, 80px, 1000px) scale(1);
-            transform: rotate(469.5deg) translate3d(835px, 80px, 1000px) scale(1);
+    -webkit-transform: rotate(189deg) translate3d(107px, 91px, 1000px) scale(1);
+            transform: rotate(189deg) translate3d(107px, 91px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(5) {
-  border-top: 50px solid #ff0015;
-  border-right: 50px solid transparent;
-  border-left: 50px solid transparent;
-  margin-left: -25px;
-  margin-top: -25px;
+  border-top: 51px solid #ff0095;
+  border-right: 51px solid transparent;
+  border-left: 51px solid transparent;
+  margin-left: -25.5px;
+  margin-top: -25.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(109deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(109deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(181deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(181deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim5 120s infinite linear;
           animation: anim5 120s infinite linear;
   -webkit-animation-delay: -6s;
@@ -237,29 +237,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim5 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(163.5deg) translate3d(125px, 584px, 1000px) scale(1);
-            transform: rotate(163.5deg) translate3d(125px, 584px, 1000px) scale(1);
+    -webkit-transform: rotate(271.5deg) translate3d(798px, 762px, 1000px) scale(1);
+            transform: rotate(271.5deg) translate3d(798px, 762px, 1000px) scale(1);
   }
 }
 
 @keyframes anim5 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(163.5deg) translate3d(125px, 584px, 1000px) scale(1);
-            transform: rotate(163.5deg) translate3d(125px, 584px, 1000px) scale(1);
+    -webkit-transform: rotate(271.5deg) translate3d(798px, 762px, 1000px) scale(1);
+            transform: rotate(271.5deg) translate3d(798px, 762px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(6) {
-  border-top: 88px solid #b3ff00;
-  border-right: 88px solid transparent;
-  border-left: 88px solid transparent;
-  margin-left: -44px;
-  margin-top: -44px;
+  border-top: 45px solid #0015ff;
+  border-right: 45px solid transparent;
+  border-left: 45px solid transparent;
+  margin-left: -22.5px;
+  margin-top: -22.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(319deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(319deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(73deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(73deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim6 120s infinite linear;
           animation: anim6 120s infinite linear;
   -webkit-animation-delay: -7.2s;
@@ -270,29 +270,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim6 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(478.5deg) translate3d(285px, 482px, 1000px) scale(1);
-            transform: rotate(478.5deg) translate3d(285px, 482px, 1000px) scale(1);
+    -webkit-transform: rotate(109.5deg) translate3d(492px, 289px, 1000px) scale(1);
+            transform: rotate(109.5deg) translate3d(492px, 289px, 1000px) scale(1);
   }
 }
 
 @keyframes anim6 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(478.5deg) translate3d(285px, 482px, 1000px) scale(1);
-            transform: rotate(478.5deg) translate3d(285px, 482px, 1000px) scale(1);
+    -webkit-transform: rotate(109.5deg) translate3d(492px, 289px, 1000px) scale(1);
+            transform: rotate(109.5deg) translate3d(492px, 289px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(7) {
-  border-top: 71px solid #99ff00;
-  border-right: 71px solid transparent;
-  border-left: 71px solid transparent;
-  margin-left: -35.5px;
-  margin-top: -35.5px;
+  border-top: 16px solid #ff00a2;
+  border-right: 16px solid transparent;
+  border-left: 16px solid transparent;
+  margin-left: -8px;
+  margin-top: -8px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(27deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(27deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(239deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(239deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim7 120s infinite linear;
           animation: anim7 120s infinite linear;
   -webkit-animation-delay: -8.4s;
@@ -303,29 +303,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim7 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(40.5deg) translate3d(532px, 253px, 1000px) scale(1);
-            transform: rotate(40.5deg) translate3d(532px, 253px, 1000px) scale(1);
+    -webkit-transform: rotate(358.5deg) translate3d(55px, 326px, 1000px) scale(1);
+            transform: rotate(358.5deg) translate3d(55px, 326px, 1000px) scale(1);
   }
 }
 
 @keyframes anim7 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(40.5deg) translate3d(532px, 253px, 1000px) scale(1);
-            transform: rotate(40.5deg) translate3d(532px, 253px, 1000px) scale(1);
+    -webkit-transform: rotate(358.5deg) translate3d(55px, 326px, 1000px) scale(1);
+            transform: rotate(358.5deg) translate3d(55px, 326px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(8) {
-  border-top: 41px solid #ffd900;
-  border-right: 41px solid transparent;
-  border-left: 41px solid transparent;
-  margin-left: -20.5px;
-  margin-top: -20.5px;
+  border-top: 56px solid #0040ff;
+  border-right: 56px solid transparent;
+  border-left: 56px solid transparent;
+  margin-left: -28px;
+  margin-top: -28px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(123deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(123deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(48deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(48deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim8 120s infinite linear;
           animation: anim8 120s infinite linear;
   -webkit-animation-delay: -9.6s;
@@ -336,29 +336,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim8 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(184.5deg) translate3d(273px, 29px, 1000px) scale(1);
-            transform: rotate(184.5deg) translate3d(273px, 29px, 1000px) scale(1);
+    -webkit-transform: rotate(72deg) translate3d(596px, 835px, 1000px) scale(1);
+            transform: rotate(72deg) translate3d(596px, 835px, 1000px) scale(1);
   }
 }
 
 @keyframes anim8 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(184.5deg) translate3d(273px, 29px, 1000px) scale(1);
-            transform: rotate(184.5deg) translate3d(273px, 29px, 1000px) scale(1);
+    -webkit-transform: rotate(72deg) translate3d(596px, 835px, 1000px) scale(1);
+            transform: rotate(72deg) translate3d(596px, 835px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(9) {
-  border-top: 8px solid #fbff00;
-  border-right: 8px solid transparent;
-  border-left: 8px solid transparent;
-  margin-left: -4px;
-  margin-top: -4px;
+  border-top: 91px solid #ff3300;
+  border-right: 91px solid transparent;
+  border-left: 91px solid transparent;
+  margin-left: -45.5px;
+  margin-top: -45.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(252deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(252deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(12deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(12deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim9 120s infinite linear;
           animation: anim9 120s infinite linear;
   -webkit-animation-delay: -10.8s;
@@ -369,29 +369,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim9 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(378deg) translate3d(187px, 316px, 1000px) scale(1);
-            transform: rotate(378deg) translate3d(187px, 316px, 1000px) scale(1);
+    -webkit-transform: rotate(18deg) translate3d(270px, 735px, 1000px) scale(1);
+            transform: rotate(18deg) translate3d(270px, 735px, 1000px) scale(1);
   }
 }
 
 @keyframes anim9 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(378deg) translate3d(187px, 316px, 1000px) scale(1);
-            transform: rotate(378deg) translate3d(187px, 316px, 1000px) scale(1);
+    -webkit-transform: rotate(18deg) translate3d(270px, 735px, 1000px) scale(1);
+            transform: rotate(18deg) translate3d(270px, 735px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(10) {
-  border-top: 1px solid #ff9100;
-  border-right: 1px solid transparent;
-  border-left: 1px solid transparent;
-  margin-left: -0.5px;
-  margin-top: -0.5px;
+  border-top: 64px solid #ff4800;
+  border-right: 64px solid transparent;
+  border-left: 64px solid transparent;
+  margin-left: -32px;
+  margin-top: -32px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(1deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(1deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(235deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(235deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim10 120s infinite linear;
           animation: anim10 120s infinite linear;
   -webkit-animation-delay: -12s;
@@ -402,29 +402,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim10 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(1.5deg) translate3d(276px, 235px, 1000px) scale(1);
-            transform: rotate(1.5deg) translate3d(276px, 235px, 1000px) scale(1);
+    -webkit-transform: rotate(352.5deg) translate3d(210px, 277px, 1000px) scale(1);
+            transform: rotate(352.5deg) translate3d(210px, 277px, 1000px) scale(1);
   }
 }
 
 @keyframes anim10 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(1.5deg) translate3d(276px, 235px, 1000px) scale(1);
-            transform: rotate(1.5deg) translate3d(276px, 235px, 1000px) scale(1);
+    -webkit-transform: rotate(352.5deg) translate3d(210px, 277px, 1000px) scale(1);
+            transform: rotate(352.5deg) translate3d(210px, 277px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(11) {
-  border-top: 58px solid #ff00dd;
-  border-right: 58px solid transparent;
-  border-left: 58px solid transparent;
-  margin-left: -29px;
-  margin-top: -29px;
+  border-top: 6px solid #a600ff;
+  border-right: 6px solid transparent;
+  border-left: 6px solid transparent;
+  margin-left: -3px;
+  margin-top: -3px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(134deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(134deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(152deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(152deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim11 120s infinite linear;
           animation: anim11 120s infinite linear;
   -webkit-animation-delay: -13.2s;
@@ -435,29 +435,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim11 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(201deg) translate3d(498px, 53px, 1000px) scale(1);
-            transform: rotate(201deg) translate3d(498px, 53px, 1000px) scale(1);
+    -webkit-transform: rotate(228deg) translate3d(599px, 507px, 1000px) scale(1);
+            transform: rotate(228deg) translate3d(599px, 507px, 1000px) scale(1);
   }
 }
 
 @keyframes anim11 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(201deg) translate3d(498px, 53px, 1000px) scale(1);
-            transform: rotate(201deg) translate3d(498px, 53px, 1000px) scale(1);
+    -webkit-transform: rotate(228deg) translate3d(599px, 507px, 1000px) scale(1);
+            transform: rotate(228deg) translate3d(599px, 507px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(12) {
-  border-top: 38px solid #ae00ff;
-  border-right: 38px solid transparent;
-  border-left: 38px solid transparent;
-  margin-left: -19px;
-  margin-top: -19px;
+  border-top: 71px solid #6200ff;
+  border-right: 71px solid transparent;
+  border-left: 71px solid transparent;
+  margin-left: -35.5px;
+  margin-top: -35.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(28deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(28deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(229deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(229deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim12 120s infinite linear;
           animation: anim12 120s infinite linear;
   -webkit-animation-delay: -14.4s;
@@ -468,29 +468,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim12 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(42deg) translate3d(802px, 58px, 1000px) scale(1);
-            transform: rotate(42deg) translate3d(802px, 58px, 1000px) scale(1);
+    -webkit-transform: rotate(343.5deg) translate3d(766px, 895px, 1000px) scale(1);
+            transform: rotate(343.5deg) translate3d(766px, 895px, 1000px) scale(1);
   }
 }
 
 @keyframes anim12 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(42deg) translate3d(802px, 58px, 1000px) scale(1);
-            transform: rotate(42deg) translate3d(802px, 58px, 1000px) scale(1);
+    -webkit-transform: rotate(343.5deg) translate3d(766px, 895px, 1000px) scale(1);
+            transform: rotate(343.5deg) translate3d(766px, 895px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(13) {
-  border-top: 41px solid #0400ff;
-  border-right: 41px solid transparent;
-  border-left: 41px solid transparent;
-  margin-left: -20.5px;
-  margin-top: -20.5px;
+  border-top: 20px solid #ffcc00;
+  border-right: 20px solid transparent;
+  border-left: 20px solid transparent;
+  margin-left: -10px;
+  margin-top: -10px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(70deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(70deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(38deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(38deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim13 120s infinite linear;
           animation: anim13 120s infinite linear;
   -webkit-animation-delay: -15.6s;
@@ -501,29 +501,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim13 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(105deg) translate3d(412px, 316px, 1000px) scale(1);
-            transform: rotate(105deg) translate3d(412px, 316px, 1000px) scale(1);
+    -webkit-transform: rotate(57deg) translate3d(285px, 807px, 1000px) scale(1);
+            transform: rotate(57deg) translate3d(285px, 807px, 1000px) scale(1);
   }
 }
 
 @keyframes anim13 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(105deg) translate3d(412px, 316px, 1000px) scale(1);
-            transform: rotate(105deg) translate3d(412px, 316px, 1000px) scale(1);
+    -webkit-transform: rotate(57deg) translate3d(285px, 807px, 1000px) scale(1);
+            transform: rotate(57deg) translate3d(285px, 807px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(14) {
-  border-top: 77px solid #ff006a;
-  border-right: 77px solid transparent;
-  border-left: 77px solid transparent;
-  margin-left: -38.5px;
-  margin-top: -38.5px;
+  border-top: 22px solid #ff1500;
+  border-right: 22px solid transparent;
+  border-left: 22px solid transparent;
+  margin-left: -11px;
+  margin-top: -11px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(178deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(178deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(206deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(206deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim14 120s infinite linear;
           animation: anim14 120s infinite linear;
   -webkit-animation-delay: -16.8s;
@@ -534,29 +534,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim14 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(267deg) translate3d(90px, 825px, 1000px) scale(1);
-            transform: rotate(267deg) translate3d(90px, 825px, 1000px) scale(1);
+    -webkit-transform: rotate(309deg) translate3d(995px, 859px, 1000px) scale(1);
+            transform: rotate(309deg) translate3d(995px, 859px, 1000px) scale(1);
   }
 }
 
 @keyframes anim14 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(267deg) translate3d(90px, 825px, 1000px) scale(1);
-            transform: rotate(267deg) translate3d(90px, 825px, 1000px) scale(1);
+    -webkit-transform: rotate(309deg) translate3d(995px, 859px, 1000px) scale(1);
+            transform: rotate(309deg) translate3d(995px, 859px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(15) {
-  border-top: 7px solid #ff0088;
-  border-right: 7px solid transparent;
-  border-left: 7px solid transparent;
-  margin-left: -3.5px;
-  margin-top: -3.5px;
+  border-top: 86px solid #ff0095;
+  border-right: 86px solid transparent;
+  border-left: 86px solid transparent;
+  margin-left: -43px;
+  margin-top: -43px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(237deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(237deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(255deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(255deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim15 120s infinite linear;
           animation: anim15 120s infinite linear;
   -webkit-animation-delay: -18s;
@@ -567,29 +567,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim15 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(355.5deg) translate3d(287px, 886px, 1000px) scale(1);
-            transform: rotate(355.5deg) translate3d(287px, 886px, 1000px) scale(1);
+    -webkit-transform: rotate(382.5deg) translate3d(449px, 567px, 1000px) scale(1);
+            transform: rotate(382.5deg) translate3d(449px, 567px, 1000px) scale(1);
   }
 }
 
 @keyframes anim15 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(355.5deg) translate3d(287px, 886px, 1000px) scale(1);
-            transform: rotate(355.5deg) translate3d(287px, 886px, 1000px) scale(1);
+    -webkit-transform: rotate(382.5deg) translate3d(449px, 567px, 1000px) scale(1);
+            transform: rotate(382.5deg) translate3d(449px, 567px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(16) {
-  border-top: 28px solid #aaff00;
-  border-right: 28px solid transparent;
-  border-left: 28px solid transparent;
-  margin-left: -14px;
-  margin-top: -14px;
+  border-top: 46px solid #00aaff;
+  border-right: 46px solid transparent;
+  border-left: 46px solid transparent;
+  margin-left: -23px;
+  margin-top: -23px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(47deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(47deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(244deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(244deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim16 120s infinite linear;
           animation: anim16 120s infinite linear;
   -webkit-animation-delay: -19.2s;
@@ -600,29 +600,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim16 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(70.5deg) translate3d(160px, 33px, 1000px) scale(1);
-            transform: rotate(70.5deg) translate3d(160px, 33px, 1000px) scale(1);
+    -webkit-transform: rotate(366deg) translate3d(384px, 920px, 1000px) scale(1);
+            transform: rotate(366deg) translate3d(384px, 920px, 1000px) scale(1);
   }
 }
 
 @keyframes anim16 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(70.5deg) translate3d(160px, 33px, 1000px) scale(1);
-            transform: rotate(70.5deg) translate3d(160px, 33px, 1000px) scale(1);
+    -webkit-transform: rotate(366deg) translate3d(384px, 920px, 1000px) scale(1);
+            transform: rotate(366deg) translate3d(384px, 920px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(17) {
-  border-top: 83px solid #7bff00;
-  border-right: 83px solid transparent;
-  border-left: 83px solid transparent;
-  margin-left: -41.5px;
-  margin-top: -41.5px;
+  border-top: 97px solid #ffc400;
+  border-right: 97px solid transparent;
+  border-left: 97px solid transparent;
+  margin-left: -48.5px;
+  margin-top: -48.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(111deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(111deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(56deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(56deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim17 120s infinite linear;
           animation: anim17 120s infinite linear;
   -webkit-animation-delay: -20.4s;
@@ -633,29 +633,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim17 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(166.5deg) translate3d(351px, 799px, 1000px) scale(1);
-            transform: rotate(166.5deg) translate3d(351px, 799px, 1000px) scale(1);
+    -webkit-transform: rotate(84deg) translate3d(936px, 367px, 1000px) scale(1);
+            transform: rotate(84deg) translate3d(936px, 367px, 1000px) scale(1);
   }
 }
 
 @keyframes anim17 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(166.5deg) translate3d(351px, 799px, 1000px) scale(1);
-            transform: rotate(166.5deg) translate3d(351px, 799px, 1000px) scale(1);
+    -webkit-transform: rotate(84deg) translate3d(936px, 367px, 1000px) scale(1);
+            transform: rotate(84deg) translate3d(936px, 367px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(18) {
-  border-top: 86px solid #fff700;
-  border-right: 86px solid transparent;
-  border-left: 86px solid transparent;
-  margin-left: -43px;
-  margin-top: -43px;
+  border-top: 41px solid #ffbb00;
+  border-right: 41px solid transparent;
+  border-left: 41px solid transparent;
+  margin-left: -20.5px;
+  margin-top: -20.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(172deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(172deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(339deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(339deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim18 120s infinite linear;
           animation: anim18 120s infinite linear;
   -webkit-animation-delay: -21.6s;
@@ -666,29 +666,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim18 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(258deg) translate3d(121px, 938px, 1000px) scale(1);
-            transform: rotate(258deg) translate3d(121px, 938px, 1000px) scale(1);
+    -webkit-transform: rotate(508.5deg) translate3d(792px, 409px, 1000px) scale(1);
+            transform: rotate(508.5deg) translate3d(792px, 409px, 1000px) scale(1);
   }
 }
 
 @keyframes anim18 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(258deg) translate3d(121px, 938px, 1000px) scale(1);
-            transform: rotate(258deg) translate3d(121px, 938px, 1000px) scale(1);
+    -webkit-transform: rotate(508.5deg) translate3d(792px, 409px, 1000px) scale(1);
+            transform: rotate(508.5deg) translate3d(792px, 409px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(19) {
-  border-top: 65px solid #002bff;
-  border-right: 65px solid transparent;
-  border-left: 65px solid transparent;
-  margin-left: -32.5px;
-  margin-top: -32.5px;
+  border-top: 63px solid #00ffcc;
+  border-right: 63px solid transparent;
+  border-left: 63px solid transparent;
+  margin-left: -31.5px;
+  margin-top: -31.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(57deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(57deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(28deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(28deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim19 120s infinite linear;
           animation: anim19 120s infinite linear;
   -webkit-animation-delay: -22.8s;
@@ -699,29 +699,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim19 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(85.5deg) translate3d(118px, 795px, 1000px) scale(1);
-            transform: rotate(85.5deg) translate3d(118px, 795px, 1000px) scale(1);
+    -webkit-transform: rotate(42deg) translate3d(116px, 798px, 1000px) scale(1);
+            transform: rotate(42deg) translate3d(116px, 798px, 1000px) scale(1);
   }
 }
 
 @keyframes anim19 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(85.5deg) translate3d(118px, 795px, 1000px) scale(1);
-            transform: rotate(85.5deg) translate3d(118px, 795px, 1000px) scale(1);
+    -webkit-transform: rotate(42deg) translate3d(116px, 798px, 1000px) scale(1);
+            transform: rotate(42deg) translate3d(116px, 798px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(20) {
-  border-top: 74px solid #ddff00;
-  border-right: 74px solid transparent;
-  border-left: 74px solid transparent;
-  margin-left: -37px;
-  margin-top: -37px;
+  border-top: 90px solid #00ffd9;
+  border-right: 90px solid transparent;
+  border-left: 90px solid transparent;
+  margin-left: -45px;
+  margin-top: -45px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(233deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(233deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(151deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(151deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim20 120s infinite linear;
           animation: anim20 120s infinite linear;
   -webkit-animation-delay: -24s;
@@ -732,29 +732,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim20 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(349.5deg) translate3d(569px, 642px, 1000px) scale(1);
-            transform: rotate(349.5deg) translate3d(569px, 642px, 1000px) scale(1);
+    -webkit-transform: rotate(226.5deg) translate3d(861px, 354px, 1000px) scale(1);
+            transform: rotate(226.5deg) translate3d(861px, 354px, 1000px) scale(1);
   }
 }
 
 @keyframes anim20 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(349.5deg) translate3d(569px, 642px, 1000px) scale(1);
-            transform: rotate(349.5deg) translate3d(569px, 642px, 1000px) scale(1);
+    -webkit-transform: rotate(226.5deg) translate3d(861px, 354px, 1000px) scale(1);
+            transform: rotate(226.5deg) translate3d(861px, 354px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(21) {
-  border-top: 97px solid #00ffe1;
-  border-right: 97px solid transparent;
-  border-left: 97px solid transparent;
-  margin-left: -48.5px;
-  margin-top: -48.5px;
+  border-top: 39px solid #ff5900;
+  border-right: 39px solid transparent;
+  border-left: 39px solid transparent;
+  margin-left: -19.5px;
+  margin-top: -19.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(83deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(83deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(94deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(94deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim21 120s infinite linear;
           animation: anim21 120s infinite linear;
   -webkit-animation-delay: -25.2s;
@@ -765,29 +765,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim21 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(124.5deg) translate3d(197px, 342px, 1000px) scale(1);
-            transform: rotate(124.5deg) translate3d(197px, 342px, 1000px) scale(1);
+    -webkit-transform: rotate(141deg) translate3d(306px, 784px, 1000px) scale(1);
+            transform: rotate(141deg) translate3d(306px, 784px, 1000px) scale(1);
   }
 }
 
 @keyframes anim21 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(124.5deg) translate3d(197px, 342px, 1000px) scale(1);
-            transform: rotate(124.5deg) translate3d(197px, 342px, 1000px) scale(1);
+    -webkit-transform: rotate(141deg) translate3d(306px, 784px, 1000px) scale(1);
+            transform: rotate(141deg) translate3d(306px, 784px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(22) {
-  border-top: 20px solid #3700ff;
-  border-right: 20px solid transparent;
-  border-left: 20px solid transparent;
-  margin-left: -10px;
-  margin-top: -10px;
+  border-top: 23px solid #ff00bb;
+  border-right: 23px solid transparent;
+  border-left: 23px solid transparent;
+  margin-left: -11.5px;
+  margin-top: -11.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(316deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(316deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(296deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(296deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim22 120s infinite linear;
           animation: anim22 120s infinite linear;
   -webkit-animation-delay: -26.4s;
@@ -798,29 +798,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim22 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(474deg) translate3d(441px, 448px, 1000px) scale(1);
-            transform: rotate(474deg) translate3d(441px, 448px, 1000px) scale(1);
+    -webkit-transform: rotate(444deg) translate3d(953px, 693px, 1000px) scale(1);
+            transform: rotate(444deg) translate3d(953px, 693px, 1000px) scale(1);
   }
 }
 
 @keyframes anim22 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(474deg) translate3d(441px, 448px, 1000px) scale(1);
-            transform: rotate(474deg) translate3d(441px, 448px, 1000px) scale(1);
+    -webkit-transform: rotate(444deg) translate3d(953px, 693px, 1000px) scale(1);
+            transform: rotate(444deg) translate3d(953px, 693px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(23) {
-  border-top: 2px solid #48ff00;
-  border-right: 2px solid transparent;
-  border-left: 2px solid transparent;
-  margin-left: -1px;
-  margin-top: -1px;
+  border-top: 90px solid #6600ff;
+  border-right: 90px solid transparent;
+  border-left: 90px solid transparent;
+  margin-left: -45px;
+  margin-top: -45px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(84deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(84deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(316deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(316deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim23 120s infinite linear;
           animation: anim23 120s infinite linear;
   -webkit-animation-delay: -27.6s;
@@ -831,29 +831,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim23 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(126deg) translate3d(894px, 349px, 1000px) scale(1);
-            transform: rotate(126deg) translate3d(894px, 349px, 1000px) scale(1);
+    -webkit-transform: rotate(474deg) translate3d(571px, 687px, 1000px) scale(1);
+            transform: rotate(474deg) translate3d(571px, 687px, 1000px) scale(1);
   }
 }
 
 @keyframes anim23 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(126deg) translate3d(894px, 349px, 1000px) scale(1);
-            transform: rotate(126deg) translate3d(894px, 349px, 1000px) scale(1);
+    -webkit-transform: rotate(474deg) translate3d(571px, 687px, 1000px) scale(1);
+            transform: rotate(474deg) translate3d(571px, 687px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(24) {
-  border-top: 58px solid #00ffd5;
-  border-right: 58px solid transparent;
-  border-left: 58px solid transparent;
-  margin-left: -29px;
-  margin-top: -29px;
+  border-top: 49px solid #00d0ff;
+  border-right: 49px solid transparent;
+  border-left: 49px solid transparent;
+  margin-left: -24.5px;
+  margin-top: -24.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(84deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(84deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(148deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(148deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim24 120s infinite linear;
           animation: anim24 120s infinite linear;
   -webkit-animation-delay: -28.8s;
@@ -864,29 +864,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim24 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(126deg) translate3d(49px, 9px, 1000px) scale(1);
-            transform: rotate(126deg) translate3d(49px, 9px, 1000px) scale(1);
+    -webkit-transform: rotate(222deg) translate3d(363px, 307px, 1000px) scale(1);
+            transform: rotate(222deg) translate3d(363px, 307px, 1000px) scale(1);
   }
 }
 
 @keyframes anim24 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(126deg) translate3d(49px, 9px, 1000px) scale(1);
-            transform: rotate(126deg) translate3d(49px, 9px, 1000px) scale(1);
+    -webkit-transform: rotate(222deg) translate3d(363px, 307px, 1000px) scale(1);
+            transform: rotate(222deg) translate3d(363px, 307px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(25) {
-  border-top: 7px solid #ffbb00;
-  border-right: 7px solid transparent;
-  border-left: 7px solid transparent;
-  margin-left: -3.5px;
-  margin-top: -3.5px;
+  border-top: 67px solid #ff0044;
+  border-right: 67px solid transparent;
+  border-left: 67px solid transparent;
+  margin-left: -33.5px;
+  margin-top: -33.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(235deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(235deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(59deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(59deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim25 120s infinite linear;
           animation: anim25 120s infinite linear;
   -webkit-animation-delay: -30s;
@@ -897,29 +897,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim25 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(352.5deg) translate3d(317px, 927px, 1000px) scale(1);
-            transform: rotate(352.5deg) translate3d(317px, 927px, 1000px) scale(1);
+    -webkit-transform: rotate(88.5deg) translate3d(617px, 448px, 1000px) scale(1);
+            transform: rotate(88.5deg) translate3d(617px, 448px, 1000px) scale(1);
   }
 }
 
 @keyframes anim25 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(352.5deg) translate3d(317px, 927px, 1000px) scale(1);
-            transform: rotate(352.5deg) translate3d(317px, 927px, 1000px) scale(1);
+    -webkit-transform: rotate(88.5deg) translate3d(617px, 448px, 1000px) scale(1);
+            transform: rotate(88.5deg) translate3d(617px, 448px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(26) {
-  border-top: 95px solid #ff00e1;
-  border-right: 95px solid transparent;
-  border-left: 95px solid transparent;
-  margin-left: -47.5px;
-  margin-top: -47.5px;
+  border-top: 63px solid #ff5e00;
+  border-right: 63px solid transparent;
+  border-left: 63px solid transparent;
+  margin-left: -31.5px;
+  margin-top: -31.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(315deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(315deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(9deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(9deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim26 120s infinite linear;
           animation: anim26 120s infinite linear;
   -webkit-animation-delay: -31.2s;
@@ -930,29 +930,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim26 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(472.5deg) translate3d(662px, 236px, 1000px) scale(1);
-            transform: rotate(472.5deg) translate3d(662px, 236px, 1000px) scale(1);
+    -webkit-transform: rotate(13.5deg) translate3d(318px, 16px, 1000px) scale(1);
+            transform: rotate(13.5deg) translate3d(318px, 16px, 1000px) scale(1);
   }
 }
 
 @keyframes anim26 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(472.5deg) translate3d(662px, 236px, 1000px) scale(1);
-            transform: rotate(472.5deg) translate3d(662px, 236px, 1000px) scale(1);
+    -webkit-transform: rotate(13.5deg) translate3d(318px, 16px, 1000px) scale(1);
+            transform: rotate(13.5deg) translate3d(318px, 16px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(27) {
-  border-top: 26px solid #00ffe6;
-  border-right: 26px solid transparent;
-  border-left: 26px solid transparent;
-  margin-left: -13px;
-  margin-top: -13px;
+  border-top: 42px solid #3cff00;
+  border-right: 42px solid transparent;
+  border-left: 42px solid transparent;
+  margin-left: -21px;
+  margin-top: -21px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(130deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(130deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(354deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(354deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim27 120s infinite linear;
           animation: anim27 120s infinite linear;
   -webkit-animation-delay: -32.4s;
@@ -963,29 +963,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim27 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(195deg) translate3d(820px, 301px, 1000px) scale(1);
-            transform: rotate(195deg) translate3d(820px, 301px, 1000px) scale(1);
+    -webkit-transform: rotate(531deg) translate3d(672px, 577px, 1000px) scale(1);
+            transform: rotate(531deg) translate3d(672px, 577px, 1000px) scale(1);
   }
 }
 
 @keyframes anim27 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(195deg) translate3d(820px, 301px, 1000px) scale(1);
-            transform: rotate(195deg) translate3d(820px, 301px, 1000px) scale(1);
+    -webkit-transform: rotate(531deg) translate3d(672px, 577px, 1000px) scale(1);
+            transform: rotate(531deg) translate3d(672px, 577px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(28) {
-  border-top: 9px solid #2bff00;
-  border-right: 9px solid transparent;
-  border-left: 9px solid transparent;
-  margin-left: -4.5px;
-  margin-top: -4.5px;
+  border-top: 94px solid #33ff00;
+  border-right: 94px solid transparent;
+  border-left: 94px solid transparent;
+  margin-left: -47px;
+  margin-top: -47px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(283deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(283deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(199deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(199deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim28 120s infinite linear;
           animation: anim28 120s infinite linear;
   -webkit-animation-delay: -33.6s;
@@ -996,29 +996,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim28 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(424.5deg) translate3d(479px, 509px, 1000px) scale(1);
-            transform: rotate(424.5deg) translate3d(479px, 509px, 1000px) scale(1);
+    -webkit-transform: rotate(298.5deg) translate3d(558px, 977px, 1000px) scale(1);
+            transform: rotate(298.5deg) translate3d(558px, 977px, 1000px) scale(1);
   }
 }
 
 @keyframes anim28 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(424.5deg) translate3d(479px, 509px, 1000px) scale(1);
-            transform: rotate(424.5deg) translate3d(479px, 509px, 1000px) scale(1);
+    -webkit-transform: rotate(298.5deg) translate3d(558px, 977px, 1000px) scale(1);
+            transform: rotate(298.5deg) translate3d(558px, 977px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(29) {
-  border-top: 75px solid #a2ff00;
-  border-right: 75px solid transparent;
-  border-left: 75px solid transparent;
-  margin-left: -37.5px;
-  margin-top: -37.5px;
+  border-top: 100px solid #ff001e;
+  border-right: 100px solid transparent;
+  border-left: 100px solid transparent;
+  margin-left: -50px;
+  margin-top: -50px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(181deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(181deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(294deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(294deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim29 120s infinite linear;
           animation: anim29 120s infinite linear;
   -webkit-animation-delay: -34.8s;
@@ -1029,29 +1029,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim29 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(271.5deg) translate3d(37px, 7px, 1000px) scale(1);
-            transform: rotate(271.5deg) translate3d(37px, 7px, 1000px) scale(1);
+    -webkit-transform: rotate(441deg) translate3d(39px, 451px, 1000px) scale(1);
+            transform: rotate(441deg) translate3d(39px, 451px, 1000px) scale(1);
   }
 }
 
 @keyframes anim29 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(271.5deg) translate3d(37px, 7px, 1000px) scale(1);
-            transform: rotate(271.5deg) translate3d(37px, 7px, 1000px) scale(1);
+    -webkit-transform: rotate(441deg) translate3d(39px, 451px, 1000px) scale(1);
+            transform: rotate(441deg) translate3d(39px, 451px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(30) {
-  border-top: 90px solid #e600ff;
-  border-right: 90px solid transparent;
-  border-left: 90px solid transparent;
-  margin-left: -45px;
-  margin-top: -45px;
+  border-top: 32px solid #ff9900;
+  border-right: 32px solid transparent;
+  border-left: 32px solid transparent;
+  margin-left: -16px;
+  margin-top: -16px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(76deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(76deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(220deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(220deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim30 120s infinite linear;
           animation: anim30 120s infinite linear;
   -webkit-animation-delay: -36s;
@@ -1062,29 +1062,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim30 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(114deg) translate3d(897px, 63px, 1000px) scale(1);
-            transform: rotate(114deg) translate3d(897px, 63px, 1000px) scale(1);
+    -webkit-transform: rotate(330deg) translate3d(748px, 418px, 1000px) scale(1);
+            transform: rotate(330deg) translate3d(748px, 418px, 1000px) scale(1);
   }
 }
 
 @keyframes anim30 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(114deg) translate3d(897px, 63px, 1000px) scale(1);
-            transform: rotate(114deg) translate3d(897px, 63px, 1000px) scale(1);
+    -webkit-transform: rotate(330deg) translate3d(748px, 418px, 1000px) scale(1);
+            transform: rotate(330deg) translate3d(748px, 418px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(31) {
-  border-top: 8px solid #00ffe6;
-  border-right: 8px solid transparent;
-  border-left: 8px solid transparent;
-  margin-left: -4px;
-  margin-top: -4px;
+  border-top: 1px solid #00d5ff;
+  border-right: 1px solid transparent;
+  border-left: 1px solid transparent;
+  margin-left: -0.5px;
+  margin-top: -0.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(283deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(283deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(266deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(266deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim31 120s infinite linear;
           animation: anim31 120s infinite linear;
   -webkit-animation-delay: -37.2s;
@@ -1095,29 +1095,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim31 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(424.5deg) translate3d(651px, 989px, 1000px) scale(1);
-            transform: rotate(424.5deg) translate3d(651px, 989px, 1000px) scale(1);
+    -webkit-transform: rotate(399deg) translate3d(352px, 25px, 1000px) scale(1);
+            transform: rotate(399deg) translate3d(352px, 25px, 1000px) scale(1);
   }
 }
 
 @keyframes anim31 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(424.5deg) translate3d(651px, 989px, 1000px) scale(1);
-            transform: rotate(424.5deg) translate3d(651px, 989px, 1000px) scale(1);
+    -webkit-transform: rotate(399deg) translate3d(352px, 25px, 1000px) scale(1);
+            transform: rotate(399deg) translate3d(352px, 25px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(32) {
-  border-top: 91px solid #00ff40;
-  border-right: 91px solid transparent;
-  border-left: 91px solid transparent;
-  margin-left: -45.5px;
-  margin-top: -45.5px;
+  border-top: 29px solid #00ffaa;
+  border-right: 29px solid transparent;
+  border-left: 29px solid transparent;
+  margin-left: -14.5px;
+  margin-top: -14.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(10deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(10deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(94deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(94deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim32 120s infinite linear;
           animation: anim32 120s infinite linear;
   -webkit-animation-delay: -38.4s;
@@ -1128,29 +1128,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim32 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(15deg) translate3d(872px, 87px, 1000px) scale(1);
-            transform: rotate(15deg) translate3d(872px, 87px, 1000px) scale(1);
+    -webkit-transform: rotate(141deg) translate3d(205px, 299px, 1000px) scale(1);
+            transform: rotate(141deg) translate3d(205px, 299px, 1000px) scale(1);
   }
 }
 
 @keyframes anim32 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(15deg) translate3d(872px, 87px, 1000px) scale(1);
-            transform: rotate(15deg) translate3d(872px, 87px, 1000px) scale(1);
+    -webkit-transform: rotate(141deg) translate3d(205px, 299px, 1000px) scale(1);
+            transform: rotate(141deg) translate3d(205px, 299px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(33) {
-  border-top: 48px solid #002bff;
-  border-right: 48px solid transparent;
-  border-left: 48px solid transparent;
-  margin-left: -24px;
-  margin-top: -24px;
+  border-top: 96px solid #15ff00;
+  border-right: 96px solid transparent;
+  border-left: 96px solid transparent;
+  margin-left: -48px;
+  margin-top: -48px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(346deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(346deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(267deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(267deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim33 120s infinite linear;
           animation: anim33 120s infinite linear;
   -webkit-animation-delay: -39.6s;
@@ -1161,29 +1161,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim33 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(519deg) translate3d(655px, 187px, 1000px) scale(1);
-            transform: rotate(519deg) translate3d(655px, 187px, 1000px) scale(1);
+    -webkit-transform: rotate(400.5deg) translate3d(674px, 640px, 1000px) scale(1);
+            transform: rotate(400.5deg) translate3d(674px, 640px, 1000px) scale(1);
   }
 }
 
 @keyframes anim33 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(519deg) translate3d(655px, 187px, 1000px) scale(1);
-            transform: rotate(519deg) translate3d(655px, 187px, 1000px) scale(1);
+    -webkit-transform: rotate(400.5deg) translate3d(674px, 640px, 1000px) scale(1);
+            transform: rotate(400.5deg) translate3d(674px, 640px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(34) {
-  border-top: 29px solid #ff8400;
-  border-right: 29px solid transparent;
-  border-left: 29px solid transparent;
-  margin-left: -14.5px;
-  margin-top: -14.5px;
+  border-top: 71px solid #ff3300;
+  border-right: 71px solid transparent;
+  border-left: 71px solid transparent;
+  margin-left: -35.5px;
+  margin-top: -35.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(53deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(53deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(1deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(1deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim34 120s infinite linear;
           animation: anim34 120s infinite linear;
   -webkit-animation-delay: -40.8s;
@@ -1194,29 +1194,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim34 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(79.5deg) translate3d(501px, 915px, 1000px) scale(1);
-            transform: rotate(79.5deg) translate3d(501px, 915px, 1000px) scale(1);
+    -webkit-transform: rotate(1.5deg) translate3d(278px, 900px, 1000px) scale(1);
+            transform: rotate(1.5deg) translate3d(278px, 900px, 1000px) scale(1);
   }
 }
 
 @keyframes anim34 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(79.5deg) translate3d(501px, 915px, 1000px) scale(1);
-            transform: rotate(79.5deg) translate3d(501px, 915px, 1000px) scale(1);
+    -webkit-transform: rotate(1.5deg) translate3d(278px, 900px, 1000px) scale(1);
+            transform: rotate(1.5deg) translate3d(278px, 900px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(35) {
-  border-top: 99px solid #001eff;
-  border-right: 99px solid transparent;
-  border-left: 99px solid transparent;
-  margin-left: -49.5px;
-  margin-top: -49.5px;
+  border-top: 41px solid #4400ff;
+  border-right: 41px solid transparent;
+  border-left: 41px solid transparent;
+  margin-left: -20.5px;
+  margin-top: -20.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(69deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(69deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(275deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(275deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim35 120s infinite linear;
           animation: anim35 120s infinite linear;
   -webkit-animation-delay: -42s;
@@ -1227,29 +1227,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim35 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(103.5deg) translate3d(299px, 255px, 1000px) scale(1);
-            transform: rotate(103.5deg) translate3d(299px, 255px, 1000px) scale(1);
+    -webkit-transform: rotate(412.5deg) translate3d(859px, 293px, 1000px) scale(1);
+            transform: rotate(412.5deg) translate3d(859px, 293px, 1000px) scale(1);
   }
 }
 
 @keyframes anim35 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(103.5deg) translate3d(299px, 255px, 1000px) scale(1);
-            transform: rotate(103.5deg) translate3d(299px, 255px, 1000px) scale(1);
+    -webkit-transform: rotate(412.5deg) translate3d(859px, 293px, 1000px) scale(1);
+            transform: rotate(412.5deg) translate3d(859px, 293px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(36) {
-  border-top: 43px solid #ff002f;
-  border-right: 43px solid transparent;
-  border-left: 43px solid transparent;
-  margin-left: -21.5px;
-  margin-top: -21.5px;
+  border-top: 58px solid #ae00ff;
+  border-right: 58px solid transparent;
+  border-left: 58px solid transparent;
+  margin-left: -29px;
+  margin-top: -29px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(165deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(165deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(110deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(110deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim36 120s infinite linear;
           animation: anim36 120s infinite linear;
   -webkit-animation-delay: -43.2s;
@@ -1260,29 +1260,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim36 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(247.5deg) translate3d(989px, 848px, 1000px) scale(1);
-            transform: rotate(247.5deg) translate3d(989px, 848px, 1000px) scale(1);
+    -webkit-transform: rotate(165deg) translate3d(476px, 925px, 1000px) scale(1);
+            transform: rotate(165deg) translate3d(476px, 925px, 1000px) scale(1);
   }
 }
 
 @keyframes anim36 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(247.5deg) translate3d(989px, 848px, 1000px) scale(1);
-            transform: rotate(247.5deg) translate3d(989px, 848px, 1000px) scale(1);
+    -webkit-transform: rotate(165deg) translate3d(476px, 925px, 1000px) scale(1);
+            transform: rotate(165deg) translate3d(476px, 925px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(37) {
-  border-top: 79px solid #0088ff;
-  border-right: 79px solid transparent;
-  border-left: 79px solid transparent;
-  margin-left: -39.5px;
-  margin-top: -39.5px;
+  border-top: 54px solid #00aeff;
+  border-right: 54px solid transparent;
+  border-left: 54px solid transparent;
+  margin-left: -27px;
+  margin-top: -27px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(41deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(41deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(263deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(263deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim37 120s infinite linear;
           animation: anim37 120s infinite linear;
   -webkit-animation-delay: -44.4s;
@@ -1293,29 +1293,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim37 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(61.5deg) translate3d(259px, 382px, 1000px) scale(1);
-            transform: rotate(61.5deg) translate3d(259px, 382px, 1000px) scale(1);
+    -webkit-transform: rotate(394.5deg) translate3d(787px, 172px, 1000px) scale(1);
+            transform: rotate(394.5deg) translate3d(787px, 172px, 1000px) scale(1);
   }
 }
 
 @keyframes anim37 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(61.5deg) translate3d(259px, 382px, 1000px) scale(1);
-            transform: rotate(61.5deg) translate3d(259px, 382px, 1000px) scale(1);
+    -webkit-transform: rotate(394.5deg) translate3d(787px, 172px, 1000px) scale(1);
+            transform: rotate(394.5deg) translate3d(787px, 172px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(38) {
-  border-top: 61px solid #ffe600;
-  border-right: 61px solid transparent;
-  border-left: 61px solid transparent;
-  margin-left: -30.5px;
-  margin-top: -30.5px;
+  border-top: 4px solid #9dff00;
+  border-right: 4px solid transparent;
+  border-left: 4px solid transparent;
+  margin-left: -2px;
+  margin-top: -2px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(173deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(173deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(355deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(355deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim38 120s infinite linear;
           animation: anim38 120s infinite linear;
   -webkit-animation-delay: -45.6s;
@@ -1326,29 +1326,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim38 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(259.5deg) translate3d(823px, 605px, 1000px) scale(1);
-            transform: rotate(259.5deg) translate3d(823px, 605px, 1000px) scale(1);
+    -webkit-transform: rotate(532.5deg) translate3d(404px, 827px, 1000px) scale(1);
+            transform: rotate(532.5deg) translate3d(404px, 827px, 1000px) scale(1);
   }
 }
 
 @keyframes anim38 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(259.5deg) translate3d(823px, 605px, 1000px) scale(1);
-            transform: rotate(259.5deg) translate3d(823px, 605px, 1000px) scale(1);
+    -webkit-transform: rotate(532.5deg) translate3d(404px, 827px, 1000px) scale(1);
+            transform: rotate(532.5deg) translate3d(404px, 827px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(39) {
-  border-top: 56px solid #00ff73;
-  border-right: 56px solid transparent;
-  border-left: 56px solid transparent;
-  margin-left: -28px;
-  margin-top: -28px;
+  border-top: 85px solid #c800ff;
+  border-right: 85px solid transparent;
+  border-left: 85px solid transparent;
+  margin-left: -42.5px;
+  margin-top: -42.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(186deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(186deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(315deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(315deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim39 120s infinite linear;
           animation: anim39 120s infinite linear;
   -webkit-animation-delay: -46.8s;
@@ -1359,29 +1359,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim39 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(279deg) translate3d(973px, 482px, 1000px) scale(1);
-            transform: rotate(279deg) translate3d(973px, 482px, 1000px) scale(1);
+    -webkit-transform: rotate(472.5deg) translate3d(678px, 35px, 1000px) scale(1);
+            transform: rotate(472.5deg) translate3d(678px, 35px, 1000px) scale(1);
   }
 }
 
 @keyframes anim39 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(279deg) translate3d(973px, 482px, 1000px) scale(1);
-            transform: rotate(279deg) translate3d(973px, 482px, 1000px) scale(1);
+    -webkit-transform: rotate(472.5deg) translate3d(678px, 35px, 1000px) scale(1);
+            transform: rotate(472.5deg) translate3d(678px, 35px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(40) {
-  border-top: 51px solid #ae00ff;
-  border-right: 51px solid transparent;
-  border-left: 51px solid transparent;
-  margin-left: -25.5px;
-  margin-top: -25.5px;
+  border-top: 47px solid #00ddff;
+  border-right: 47px solid transparent;
+  border-left: 47px solid transparent;
+  margin-left: -23.5px;
+  margin-top: -23.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(275deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(275deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(104deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(104deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim40 120s infinite linear;
           animation: anim40 120s infinite linear;
   -webkit-animation-delay: -48s;
@@ -1392,29 +1392,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim40 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(412.5deg) translate3d(849px, 590px, 1000px) scale(1);
-            transform: rotate(412.5deg) translate3d(849px, 590px, 1000px) scale(1);
+    -webkit-transform: rotate(156deg) translate3d(735px, 771px, 1000px) scale(1);
+            transform: rotate(156deg) translate3d(735px, 771px, 1000px) scale(1);
   }
 }
 
 @keyframes anim40 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(412.5deg) translate3d(849px, 590px, 1000px) scale(1);
-            transform: rotate(412.5deg) translate3d(849px, 590px, 1000px) scale(1);
+    -webkit-transform: rotate(156deg) translate3d(735px, 771px, 1000px) scale(1);
+            transform: rotate(156deg) translate3d(735px, 771px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(41) {
-  border-top: 99px solid #ff00f2;
-  border-right: 99px solid transparent;
-  border-left: 99px solid transparent;
-  margin-left: -49.5px;
-  margin-top: -49.5px;
+  border-top: 58px solid #66ff00;
+  border-right: 58px solid transparent;
+  border-left: 58px solid transparent;
+  margin-left: -29px;
+  margin-top: -29px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(7deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(7deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(283deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(283deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim41 120s infinite linear;
           animation: anim41 120s infinite linear;
   -webkit-animation-delay: -49.2s;
@@ -1425,29 +1425,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim41 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(10.5deg) translate3d(925px, 943px, 1000px) scale(1);
-            transform: rotate(10.5deg) translate3d(925px, 943px, 1000px) scale(1);
+    -webkit-transform: rotate(424.5deg) translate3d(441px, 801px, 1000px) scale(1);
+            transform: rotate(424.5deg) translate3d(441px, 801px, 1000px) scale(1);
   }
 }
 
 @keyframes anim41 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(10.5deg) translate3d(925px, 943px, 1000px) scale(1);
-            transform: rotate(10.5deg) translate3d(925px, 943px, 1000px) scale(1);
+    -webkit-transform: rotate(424.5deg) translate3d(441px, 801px, 1000px) scale(1);
+            transform: rotate(424.5deg) translate3d(441px, 801px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(42) {
-  border-top: 58px solid #0026ff;
-  border-right: 58px solid transparent;
-  border-left: 58px solid transparent;
-  margin-left: -29px;
-  margin-top: -29px;
+  border-top: 11px solid #c800ff;
+  border-right: 11px solid transparent;
+  border-left: 11px solid transparent;
+  margin-left: -5.5px;
+  margin-top: -5.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(213deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(213deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(170deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(170deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim42 120s infinite linear;
           animation: anim42 120s infinite linear;
   -webkit-animation-delay: -50.4s;
@@ -1458,29 +1458,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim42 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(319.5deg) translate3d(476px, 274px, 1000px) scale(1);
-            transform: rotate(319.5deg) translate3d(476px, 274px, 1000px) scale(1);
+    -webkit-transform: rotate(255deg) translate3d(689px, 817px, 1000px) scale(1);
+            transform: rotate(255deg) translate3d(689px, 817px, 1000px) scale(1);
   }
 }
 
 @keyframes anim42 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(319.5deg) translate3d(476px, 274px, 1000px) scale(1);
-            transform: rotate(319.5deg) translate3d(476px, 274px, 1000px) scale(1);
+    -webkit-transform: rotate(255deg) translate3d(689px, 817px, 1000px) scale(1);
+            transform: rotate(255deg) translate3d(689px, 817px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(43) {
-  border-top: 9px solid #ff9100;
-  border-right: 9px solid transparent;
-  border-left: 9px solid transparent;
-  margin-left: -4.5px;
-  margin-top: -4.5px;
+  border-top: 19px solid #aa00ff;
+  border-right: 19px solid transparent;
+  border-left: 19px solid transparent;
+  margin-left: -9.5px;
+  margin-top: -9.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(197deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(197deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(160deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(160deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim43 120s infinite linear;
           animation: anim43 120s infinite linear;
   -webkit-animation-delay: -51.6s;
@@ -1491,29 +1491,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim43 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(295.5deg) translate3d(412px, 769px, 1000px) scale(1);
-            transform: rotate(295.5deg) translate3d(412px, 769px, 1000px) scale(1);
+    -webkit-transform: rotate(240deg) translate3d(560px, 539px, 1000px) scale(1);
+            transform: rotate(240deg) translate3d(560px, 539px, 1000px) scale(1);
   }
 }
 
 @keyframes anim43 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(295.5deg) translate3d(412px, 769px, 1000px) scale(1);
-            transform: rotate(295.5deg) translate3d(412px, 769px, 1000px) scale(1);
+    -webkit-transform: rotate(240deg) translate3d(560px, 539px, 1000px) scale(1);
+            transform: rotate(240deg) translate3d(560px, 539px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(44) {
-  border-top: 45px solid #00ff91;
-  border-right: 45px solid transparent;
-  border-left: 45px solid transparent;
-  margin-left: -22.5px;
-  margin-top: -22.5px;
+  border-top: 66px solid #00ffe6;
+  border-right: 66px solid transparent;
+  border-left: 66px solid transparent;
+  margin-left: -33px;
+  margin-top: -33px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(143deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(143deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(53deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(53deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim44 120s infinite linear;
           animation: anim44 120s infinite linear;
   -webkit-animation-delay: -52.8s;
@@ -1524,29 +1524,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim44 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(214.5deg) translate3d(7px, 34px, 1000px) scale(1);
-            transform: rotate(214.5deg) translate3d(7px, 34px, 1000px) scale(1);
+    -webkit-transform: rotate(79.5deg) translate3d(822px, 484px, 1000px) scale(1);
+            transform: rotate(79.5deg) translate3d(822px, 484px, 1000px) scale(1);
   }
 }
 
 @keyframes anim44 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(214.5deg) translate3d(7px, 34px, 1000px) scale(1);
-            transform: rotate(214.5deg) translate3d(7px, 34px, 1000px) scale(1);
+    -webkit-transform: rotate(79.5deg) translate3d(822px, 484px, 1000px) scale(1);
+            transform: rotate(79.5deg) translate3d(822px, 484px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(45) {
-  border-top: 89px solid #ff00f2;
-  border-right: 89px solid transparent;
-  border-left: 89px solid transparent;
-  margin-left: -44.5px;
-  margin-top: -44.5px;
+  border-top: 63px solid #006fff;
+  border-right: 63px solid transparent;
+  border-left: 63px solid transparent;
+  margin-left: -31.5px;
+  margin-top: -31.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(268deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(268deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(195deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(195deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim45 120s infinite linear;
           animation: anim45 120s infinite linear;
   -webkit-animation-delay: -54s;
@@ -1557,29 +1557,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim45 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(402deg) translate3d(702px, 322px, 1000px) scale(1);
-            transform: rotate(402deg) translate3d(702px, 322px, 1000px) scale(1);
+    -webkit-transform: rotate(292.5deg) translate3d(228px, 768px, 1000px) scale(1);
+            transform: rotate(292.5deg) translate3d(228px, 768px, 1000px) scale(1);
   }
 }
 
 @keyframes anim45 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(402deg) translate3d(702px, 322px, 1000px) scale(1);
-            transform: rotate(402deg) translate3d(702px, 322px, 1000px) scale(1);
+    -webkit-transform: rotate(292.5deg) translate3d(228px, 768px, 1000px) scale(1);
+            transform: rotate(292.5deg) translate3d(228px, 768px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(46) {
-  border-top: 97px solid #00ffd9;
-  border-right: 97px solid transparent;
-  border-left: 97px solid transparent;
-  margin-left: -48.5px;
-  margin-top: -48.5px;
+  border-top: 66px solid #2fff00;
+  border-right: 66px solid transparent;
+  border-left: 66px solid transparent;
+  margin-left: -33px;
+  margin-top: -33px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(350deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(350deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(318deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(318deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim46 120s infinite linear;
           animation: anim46 120s infinite linear;
   -webkit-animation-delay: -55.2s;
@@ -1590,29 +1590,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim46 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(525deg) translate3d(584px, 277px, 1000px) scale(1);
-            transform: rotate(525deg) translate3d(584px, 277px, 1000px) scale(1);
+    -webkit-transform: rotate(477deg) translate3d(174px, 625px, 1000px) scale(1);
+            transform: rotate(477deg) translate3d(174px, 625px, 1000px) scale(1);
   }
 }
 
 @keyframes anim46 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(525deg) translate3d(584px, 277px, 1000px) scale(1);
-            transform: rotate(525deg) translate3d(584px, 277px, 1000px) scale(1);
+    -webkit-transform: rotate(477deg) translate3d(174px, 625px, 1000px) scale(1);
+            transform: rotate(477deg) translate3d(174px, 625px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(47) {
-  border-top: 98px solid #1100ff;
-  border-right: 98px solid transparent;
-  border-left: 98px solid transparent;
-  margin-left: -49px;
-  margin-top: -49px;
+  border-top: 19px solid #00ffbf;
+  border-right: 19px solid transparent;
+  border-left: 19px solid transparent;
+  margin-left: -9.5px;
+  margin-top: -9.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(152deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(152deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(2deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(2deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim47 120s infinite linear;
           animation: anim47 120s infinite linear;
   -webkit-animation-delay: -56.4s;
@@ -1623,29 +1623,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim47 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(228deg) translate3d(440px, 528px, 1000px) scale(1);
-            transform: rotate(228deg) translate3d(440px, 528px, 1000px) scale(1);
+    -webkit-transform: rotate(3deg) translate3d(400px, 354px, 1000px) scale(1);
+            transform: rotate(3deg) translate3d(400px, 354px, 1000px) scale(1);
   }
 }
 
 @keyframes anim47 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(228deg) translate3d(440px, 528px, 1000px) scale(1);
-            transform: rotate(228deg) translate3d(440px, 528px, 1000px) scale(1);
+    -webkit-transform: rotate(3deg) translate3d(400px, 354px, 1000px) scale(1);
+            transform: rotate(3deg) translate3d(400px, 354px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(48) {
-  border-top: 28px solid #0009ff;
-  border-right: 28px solid transparent;
-  border-left: 28px solid transparent;
-  margin-left: -14px;
-  margin-top: -14px;
+  border-top: 42px solid #ccff00;
+  border-right: 42px solid transparent;
+  border-left: 42px solid transparent;
+  margin-left: -21px;
+  margin-top: -21px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(327deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(327deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(21deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(21deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim48 120s infinite linear;
           animation: anim48 120s infinite linear;
   -webkit-animation-delay: -57.6s;
@@ -1656,29 +1656,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim48 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(490.5deg) translate3d(187px, 737px, 1000px) scale(1);
-            transform: rotate(490.5deg) translate3d(187px, 737px, 1000px) scale(1);
+    -webkit-transform: rotate(31.5deg) translate3d(169px, 485px, 1000px) scale(1);
+            transform: rotate(31.5deg) translate3d(169px, 485px, 1000px) scale(1);
   }
 }
 
 @keyframes anim48 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(490.5deg) translate3d(187px, 737px, 1000px) scale(1);
-            transform: rotate(490.5deg) translate3d(187px, 737px, 1000px) scale(1);
+    -webkit-transform: rotate(31.5deg) translate3d(169px, 485px, 1000px) scale(1);
+            transform: rotate(31.5deg) translate3d(169px, 485px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(49) {
-  border-top: 39px solid #008cff;
-  border-right: 39px solid transparent;
-  border-left: 39px solid transparent;
-  margin-left: -19.5px;
-  margin-top: -19.5px;
+  border-top: 66px solid #00f7ff;
+  border-right: 66px solid transparent;
+  border-left: 66px solid transparent;
+  margin-left: -33px;
+  margin-top: -33px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(314deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(314deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(174deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(174deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim49 120s infinite linear;
           animation: anim49 120s infinite linear;
   -webkit-animation-delay: -58.8s;
@@ -1689,29 +1689,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim49 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(471deg) translate3d(995px, 254px, 1000px) scale(1);
-            transform: rotate(471deg) translate3d(995px, 254px, 1000px) scale(1);
+    -webkit-transform: rotate(261deg) translate3d(851px, 821px, 1000px) scale(1);
+            transform: rotate(261deg) translate3d(851px, 821px, 1000px) scale(1);
   }
 }
 
 @keyframes anim49 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(471deg) translate3d(995px, 254px, 1000px) scale(1);
-            transform: rotate(471deg) translate3d(995px, 254px, 1000px) scale(1);
+    -webkit-transform: rotate(261deg) translate3d(851px, 821px, 1000px) scale(1);
+            transform: rotate(261deg) translate3d(851px, 821px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(50) {
-  border-top: 24px solid #00aeff;
-  border-right: 24px solid transparent;
-  border-left: 24px solid transparent;
-  margin-left: -12px;
-  margin-top: -12px;
+  border-top: 49px solid #ff00bb;
+  border-right: 49px solid transparent;
+  border-left: 49px solid transparent;
+  margin-left: -24.5px;
+  margin-top: -24.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(15deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(15deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(108deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(108deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim50 120s infinite linear;
           animation: anim50 120s infinite linear;
   -webkit-animation-delay: -60s;
@@ -1722,29 +1722,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim50 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(22.5deg) translate3d(767px, 163px, 1000px) scale(1);
-            transform: rotate(22.5deg) translate3d(767px, 163px, 1000px) scale(1);
+    -webkit-transform: rotate(162deg) translate3d(464px, 823px, 1000px) scale(1);
+            transform: rotate(162deg) translate3d(464px, 823px, 1000px) scale(1);
   }
 }
 
 @keyframes anim50 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(22.5deg) translate3d(767px, 163px, 1000px) scale(1);
-            transform: rotate(22.5deg) translate3d(767px, 163px, 1000px) scale(1);
+    -webkit-transform: rotate(162deg) translate3d(464px, 823px, 1000px) scale(1);
+            transform: rotate(162deg) translate3d(464px, 823px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(51) {
-  border-top: 33px solid #0900ff;
-  border-right: 33px solid transparent;
-  border-left: 33px solid transparent;
-  margin-left: -16.5px;
-  margin-top: -16.5px;
+  border-top: 4px solid #00ff80;
+  border-right: 4px solid transparent;
+  border-left: 4px solid transparent;
+  margin-left: -2px;
+  margin-top: -2px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(278deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(278deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(294deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(294deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim51 120s infinite linear;
           animation: anim51 120s infinite linear;
   -webkit-animation-delay: -61.2s;
@@ -1755,29 +1755,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim51 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(417deg) translate3d(596px, 953px, 1000px) scale(1);
-            transform: rotate(417deg) translate3d(596px, 953px, 1000px) scale(1);
+    -webkit-transform: rotate(441deg) translate3d(329px, 730px, 1000px) scale(1);
+            transform: rotate(441deg) translate3d(329px, 730px, 1000px) scale(1);
   }
 }
 
 @keyframes anim51 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(417deg) translate3d(596px, 953px, 1000px) scale(1);
-            transform: rotate(417deg) translate3d(596px, 953px, 1000px) scale(1);
+    -webkit-transform: rotate(441deg) translate3d(329px, 730px, 1000px) scale(1);
+            transform: rotate(441deg) translate3d(329px, 730px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(52) {
-  border-top: 98px solid #eeff00;
-  border-right: 98px solid transparent;
-  border-left: 98px solid transparent;
-  margin-left: -49px;
-  margin-top: -49px;
+  border-top: 10px solid #00ff0d;
+  border-right: 10px solid transparent;
+  border-left: 10px solid transparent;
+  margin-left: -5px;
+  margin-top: -5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(292deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(292deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(181deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(181deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim52 120s infinite linear;
           animation: anim52 120s infinite linear;
   -webkit-animation-delay: -62.4s;
@@ -1788,29 +1788,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim52 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(438deg) translate3d(286px, 847px, 1000px) scale(1);
-            transform: rotate(438deg) translate3d(286px, 847px, 1000px) scale(1);
+    -webkit-transform: rotate(271.5deg) translate3d(649px, 810px, 1000px) scale(1);
+            transform: rotate(271.5deg) translate3d(649px, 810px, 1000px) scale(1);
   }
 }
 
 @keyframes anim52 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(438deg) translate3d(286px, 847px, 1000px) scale(1);
-            transform: rotate(438deg) translate3d(286px, 847px, 1000px) scale(1);
+    -webkit-transform: rotate(271.5deg) translate3d(649px, 810px, 1000px) scale(1);
+            transform: rotate(271.5deg) translate3d(649px, 810px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(53) {
-  border-top: 81px solid #ff006a;
-  border-right: 81px solid transparent;
-  border-left: 81px solid transparent;
-  margin-left: -40.5px;
-  margin-top: -40.5px;
+  border-top: 59px solid #2600ff;
+  border-right: 59px solid transparent;
+  border-left: 59px solid transparent;
+  margin-left: -29.5px;
+  margin-top: -29.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(356deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(356deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(97deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(97deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim53 120s infinite linear;
           animation: anim53 120s infinite linear;
   -webkit-animation-delay: -63.6s;
@@ -1821,29 +1821,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim53 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(534deg) translate3d(234px, 370px, 1000px) scale(1);
-            transform: rotate(534deg) translate3d(234px, 370px, 1000px) scale(1);
+    -webkit-transform: rotate(145.5deg) translate3d(216px, 932px, 1000px) scale(1);
+            transform: rotate(145.5deg) translate3d(216px, 932px, 1000px) scale(1);
   }
 }
 
 @keyframes anim53 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(534deg) translate3d(234px, 370px, 1000px) scale(1);
-            transform: rotate(534deg) translate3d(234px, 370px, 1000px) scale(1);
+    -webkit-transform: rotate(145.5deg) translate3d(216px, 932px, 1000px) scale(1);
+            transform: rotate(145.5deg) translate3d(216px, 932px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(54) {
-  border-top: 87px solid #00ff7b;
-  border-right: 87px solid transparent;
-  border-left: 87px solid transparent;
-  margin-left: -43.5px;
-  margin-top: -43.5px;
+  border-top: 50px solid #00ff8c;
+  border-right: 50px solid transparent;
+  border-left: 50px solid transparent;
+  margin-left: -25px;
+  margin-top: -25px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(32deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(32deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(28deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(28deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim54 120s infinite linear;
           animation: anim54 120s infinite linear;
   -webkit-animation-delay: -64.8s;
@@ -1854,29 +1854,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim54 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(48deg) translate3d(131px, 751px, 1000px) scale(1);
-            transform: rotate(48deg) translate3d(131px, 751px, 1000px) scale(1);
+    -webkit-transform: rotate(42deg) translate3d(659px, 122px, 1000px) scale(1);
+            transform: rotate(42deg) translate3d(659px, 122px, 1000px) scale(1);
   }
 }
 
 @keyframes anim54 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(48deg) translate3d(131px, 751px, 1000px) scale(1);
-            transform: rotate(48deg) translate3d(131px, 751px, 1000px) scale(1);
+    -webkit-transform: rotate(42deg) translate3d(659px, 122px, 1000px) scale(1);
+            transform: rotate(42deg) translate3d(659px, 122px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(55) {
-  border-top: 70px solid #3cff00;
-  border-right: 70px solid transparent;
-  border-left: 70px solid transparent;
-  margin-left: -35px;
-  margin-top: -35px;
+  border-top: 38px solid #ff0400;
+  border-right: 38px solid transparent;
+  border-left: 38px solid transparent;
+  margin-left: -19px;
+  margin-top: -19px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(126deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(126deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(244deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(244deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim55 120s infinite linear;
           animation: anim55 120s infinite linear;
   -webkit-animation-delay: -66s;
@@ -1887,29 +1887,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim55 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(189deg) translate3d(279px, 709px, 1000px) scale(1);
-            transform: rotate(189deg) translate3d(279px, 709px, 1000px) scale(1);
+    -webkit-transform: rotate(366deg) translate3d(381px, 118px, 1000px) scale(1);
+            transform: rotate(366deg) translate3d(381px, 118px, 1000px) scale(1);
   }
 }
 
 @keyframes anim55 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(189deg) translate3d(279px, 709px, 1000px) scale(1);
-            transform: rotate(189deg) translate3d(279px, 709px, 1000px) scale(1);
+    -webkit-transform: rotate(366deg) translate3d(381px, 118px, 1000px) scale(1);
+            transform: rotate(366deg) translate3d(381px, 118px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(56) {
-  border-top: 18px solid #00ddff;
-  border-right: 18px solid transparent;
-  border-left: 18px solid transparent;
-  margin-left: -9px;
-  margin-top: -9px;
+  border-top: 89px solid #ff0048;
+  border-right: 89px solid transparent;
+  border-left: 89px solid transparent;
+  margin-left: -44.5px;
+  margin-top: -44.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(46deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(46deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(88deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(88deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim56 120s infinite linear;
           animation: anim56 120s infinite linear;
   -webkit-animation-delay: -67.2s;
@@ -1920,29 +1920,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim56 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(69deg) translate3d(873px, 114px, 1000px) scale(1);
-            transform: rotate(69deg) translate3d(873px, 114px, 1000px) scale(1);
+    -webkit-transform: rotate(132deg) translate3d(26px, 432px, 1000px) scale(1);
+            transform: rotate(132deg) translate3d(26px, 432px, 1000px) scale(1);
   }
 }
 
 @keyframes anim56 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(69deg) translate3d(873px, 114px, 1000px) scale(1);
-            transform: rotate(69deg) translate3d(873px, 114px, 1000px) scale(1);
+    -webkit-transform: rotate(132deg) translate3d(26px, 432px, 1000px) scale(1);
+            transform: rotate(132deg) translate3d(26px, 432px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(57) {
-  border-top: 74px solid #00ffcc;
-  border-right: 74px solid transparent;
-  border-left: 74px solid transparent;
-  margin-left: -37px;
-  margin-top: -37px;
+  border-top: 47px solid #5500ff;
+  border-right: 47px solid transparent;
+  border-left: 47px solid transparent;
+  margin-left: -23.5px;
+  margin-top: -23.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(159deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(159deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(208deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(208deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim57 120s infinite linear;
           animation: anim57 120s infinite linear;
   -webkit-animation-delay: -68.4s;
@@ -1953,29 +1953,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim57 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(238.5deg) translate3d(362px, 789px, 1000px) scale(1);
-            transform: rotate(238.5deg) translate3d(362px, 789px, 1000px) scale(1);
+    -webkit-transform: rotate(312deg) translate3d(105px, 642px, 1000px) scale(1);
+            transform: rotate(312deg) translate3d(105px, 642px, 1000px) scale(1);
   }
 }
 
 @keyframes anim57 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(238.5deg) translate3d(362px, 789px, 1000px) scale(1);
-            transform: rotate(238.5deg) translate3d(362px, 789px, 1000px) scale(1);
+    -webkit-transform: rotate(312deg) translate3d(105px, 642px, 1000px) scale(1);
+            transform: rotate(312deg) translate3d(105px, 642px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(58) {
-  border-top: 77px solid #4800ff;
-  border-right: 77px solid transparent;
-  border-left: 77px solid transparent;
-  margin-left: -38.5px;
-  margin-top: -38.5px;
+  border-top: 58px solid #ff000d;
+  border-right: 58px solid transparent;
+  border-left: 58px solid transparent;
+  margin-left: -29px;
+  margin-top: -29px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(287deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(287deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(114deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(114deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim58 120s infinite linear;
           animation: anim58 120s infinite linear;
   -webkit-animation-delay: -69.6s;
@@ -1986,29 +1986,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim58 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(430.5deg) translate3d(843px, 138px, 1000px) scale(1);
-            transform: rotate(430.5deg) translate3d(843px, 138px, 1000px) scale(1);
+    -webkit-transform: rotate(171deg) translate3d(347px, 417px, 1000px) scale(1);
+            transform: rotate(171deg) translate3d(347px, 417px, 1000px) scale(1);
   }
 }
 
 @keyframes anim58 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(430.5deg) translate3d(843px, 138px, 1000px) scale(1);
-            transform: rotate(430.5deg) translate3d(843px, 138px, 1000px) scale(1);
+    -webkit-transform: rotate(171deg) translate3d(347px, 417px, 1000px) scale(1);
+            transform: rotate(171deg) translate3d(347px, 417px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(59) {
-  border-top: 94px solid #00ff77;
-  border-right: 94px solid transparent;
-  border-left: 94px solid transparent;
-  margin-left: -47px;
-  margin-top: -47px;
+  border-top: 4px solid #00eaff;
+  border-right: 4px solid transparent;
+  border-left: 4px solid transparent;
+  margin-left: -2px;
+  margin-top: -2px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(232deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(232deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(243deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(243deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim59 120s infinite linear;
           animation: anim59 120s infinite linear;
   -webkit-animation-delay: -70.8s;
@@ -2019,29 +2019,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim59 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(348deg) translate3d(623px, 539px, 1000px) scale(1);
-            transform: rotate(348deg) translate3d(623px, 539px, 1000px) scale(1);
+    -webkit-transform: rotate(364.5deg) translate3d(608px, 952px, 1000px) scale(1);
+            transform: rotate(364.5deg) translate3d(608px, 952px, 1000px) scale(1);
   }
 }
 
 @keyframes anim59 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(348deg) translate3d(623px, 539px, 1000px) scale(1);
-            transform: rotate(348deg) translate3d(623px, 539px, 1000px) scale(1);
+    -webkit-transform: rotate(364.5deg) translate3d(608px, 952px, 1000px) scale(1);
+            transform: rotate(364.5deg) translate3d(608px, 952px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(60) {
-  border-top: 96px solid #0062ff;
-  border-right: 96px solid transparent;
-  border-left: 96px solid transparent;
-  margin-left: -48px;
-  margin-top: -48px;
+  border-top: 29px solid #0048ff;
+  border-right: 29px solid transparent;
+  border-left: 29px solid transparent;
+  margin-left: -14.5px;
+  margin-top: -14.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(259deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(259deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(333deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(333deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim60 120s infinite linear;
           animation: anim60 120s infinite linear;
   -webkit-animation-delay: -72s;
@@ -2052,29 +2052,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim60 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(388.5deg) translate3d(48px, 266px, 1000px) scale(1);
-            transform: rotate(388.5deg) translate3d(48px, 266px, 1000px) scale(1);
+    -webkit-transform: rotate(499.5deg) translate3d(259px, 954px, 1000px) scale(1);
+            transform: rotate(499.5deg) translate3d(259px, 954px, 1000px) scale(1);
   }
 }
 
 @keyframes anim60 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(388.5deg) translate3d(48px, 266px, 1000px) scale(1);
-            transform: rotate(388.5deg) translate3d(48px, 266px, 1000px) scale(1);
+    -webkit-transform: rotate(499.5deg) translate3d(259px, 954px, 1000px) scale(1);
+            transform: rotate(499.5deg) translate3d(259px, 954px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(61) {
-  border-top: 37px solid #f700ff;
-  border-right: 37px solid transparent;
-  border-left: 37px solid transparent;
-  margin-left: -18.5px;
-  margin-top: -18.5px;
+  border-top: 75px solid #ff00b3;
+  border-right: 75px solid transparent;
+  border-left: 75px solid transparent;
+  margin-left: -37.5px;
+  margin-top: -37.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(41deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(41deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(5deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(5deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim61 120s infinite linear;
           animation: anim61 120s infinite linear;
   -webkit-animation-delay: -73.2s;
@@ -2085,29 +2085,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim61 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(61.5deg) translate3d(936px, 376px, 1000px) scale(1);
-            transform: rotate(61.5deg) translate3d(936px, 376px, 1000px) scale(1);
+    -webkit-transform: rotate(7.5deg) translate3d(519px, 432px, 1000px) scale(1);
+            transform: rotate(7.5deg) translate3d(519px, 432px, 1000px) scale(1);
   }
 }
 
 @keyframes anim61 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(61.5deg) translate3d(936px, 376px, 1000px) scale(1);
-            transform: rotate(61.5deg) translate3d(936px, 376px, 1000px) scale(1);
+    -webkit-transform: rotate(7.5deg) translate3d(519px, 432px, 1000px) scale(1);
+            transform: rotate(7.5deg) translate3d(519px, 432px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(62) {
-  border-top: 46px solid #4800ff;
-  border-right: 46px solid transparent;
-  border-left: 46px solid transparent;
-  margin-left: -23px;
-  margin-top: -23px;
+  border-top: 55px solid #3c00ff;
+  border-right: 55px solid transparent;
+  border-left: 55px solid transparent;
+  margin-left: -27.5px;
+  margin-top: -27.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(78deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(78deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(308deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(308deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim62 120s infinite linear;
           animation: anim62 120s infinite linear;
   -webkit-animation-delay: -74.4s;
@@ -2118,29 +2118,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim62 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(117deg) translate3d(884px, 20px, 1000px) scale(1);
-            transform: rotate(117deg) translate3d(884px, 20px, 1000px) scale(1);
+    -webkit-transform: rotate(462deg) translate3d(523px, 166px, 1000px) scale(1);
+            transform: rotate(462deg) translate3d(523px, 166px, 1000px) scale(1);
   }
 }
 
 @keyframes anim62 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(117deg) translate3d(884px, 20px, 1000px) scale(1);
-            transform: rotate(117deg) translate3d(884px, 20px, 1000px) scale(1);
+    -webkit-transform: rotate(462deg) translate3d(523px, 166px, 1000px) scale(1);
+            transform: rotate(462deg) translate3d(523px, 166px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(63) {
-  border-top: 21px solid #00ffdd;
-  border-right: 21px solid transparent;
-  border-left: 21px solid transparent;
-  margin-left: -10.5px;
-  margin-top: -10.5px;
+  border-top: 89px solid #00ff80;
+  border-right: 89px solid transparent;
+  border-left: 89px solid transparent;
+  margin-left: -44.5px;
+  margin-top: -44.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(158deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(158deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(2deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(2deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim63 120s infinite linear;
           animation: anim63 120s infinite linear;
   -webkit-animation-delay: -75.6s;
@@ -2151,29 +2151,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim63 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(237deg) translate3d(184px, 599px, 1000px) scale(1);
-            transform: rotate(237deg) translate3d(184px, 599px, 1000px) scale(1);
+    -webkit-transform: rotate(3deg) translate3d(154px, 565px, 1000px) scale(1);
+            transform: rotate(3deg) translate3d(154px, 565px, 1000px) scale(1);
   }
 }
 
 @keyframes anim63 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(237deg) translate3d(184px, 599px, 1000px) scale(1);
-            transform: rotate(237deg) translate3d(184px, 599px, 1000px) scale(1);
+    -webkit-transform: rotate(3deg) translate3d(154px, 565px, 1000px) scale(1);
+            transform: rotate(3deg) translate3d(154px, 565px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(64) {
-  border-top: 16px solid #d500ff;
-  border-right: 16px solid transparent;
-  border-left: 16px solid transparent;
-  margin-left: -8px;
-  margin-top: -8px;
+  border-top: 76px solid #00ff84;
+  border-right: 76px solid transparent;
+  border-left: 76px solid transparent;
+  margin-left: -38px;
+  margin-top: -38px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(35deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(35deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(269deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(269deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim64 120s infinite linear;
           animation: anim64 120s infinite linear;
   -webkit-animation-delay: -76.8s;
@@ -2184,29 +2184,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim64 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(52.5deg) translate3d(891px, 88px, 1000px) scale(1);
-            transform: rotate(52.5deg) translate3d(891px, 88px, 1000px) scale(1);
+    -webkit-transform: rotate(403.5deg) translate3d(52px, 278px, 1000px) scale(1);
+            transform: rotate(403.5deg) translate3d(52px, 278px, 1000px) scale(1);
   }
 }
 
 @keyframes anim64 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(52.5deg) translate3d(891px, 88px, 1000px) scale(1);
-            transform: rotate(52.5deg) translate3d(891px, 88px, 1000px) scale(1);
+    -webkit-transform: rotate(403.5deg) translate3d(52px, 278px, 1000px) scale(1);
+            transform: rotate(403.5deg) translate3d(52px, 278px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(65) {
-  border-top: 13px solid #ff00fb;
-  border-right: 13px solid transparent;
-  border-left: 13px solid transparent;
-  margin-left: -6.5px;
-  margin-top: -6.5px;
+  border-top: 82px solid #ff002f;
+  border-right: 82px solid transparent;
+  border-left: 82px solid transparent;
+  margin-left: -41px;
+  margin-top: -41px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(32deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(32deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(207deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(207deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim65 120s infinite linear;
           animation: anim65 120s infinite linear;
   -webkit-animation-delay: -78s;
@@ -2217,29 +2217,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim65 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(48deg) translate3d(21px, 136px, 1000px) scale(1);
-            transform: rotate(48deg) translate3d(21px, 136px, 1000px) scale(1);
+    -webkit-transform: rotate(310.5deg) translate3d(543px, 838px, 1000px) scale(1);
+            transform: rotate(310.5deg) translate3d(543px, 838px, 1000px) scale(1);
   }
 }
 
 @keyframes anim65 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(48deg) translate3d(21px, 136px, 1000px) scale(1);
-            transform: rotate(48deg) translate3d(21px, 136px, 1000px) scale(1);
+    -webkit-transform: rotate(310.5deg) translate3d(543px, 838px, 1000px) scale(1);
+            transform: rotate(310.5deg) translate3d(543px, 838px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(66) {
-  border-top: 9px solid #6600ff;
-  border-right: 9px solid transparent;
-  border-left: 9px solid transparent;
-  margin-left: -4.5px;
-  margin-top: -4.5px;
+  border-top: 70px solid #ff0073;
+  border-right: 70px solid transparent;
+  border-left: 70px solid transparent;
+  margin-left: -35px;
+  margin-top: -35px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(152deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(152deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(215deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(215deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim66 120s infinite linear;
           animation: anim66 120s infinite linear;
   -webkit-animation-delay: -79.2s;
@@ -2250,29 +2250,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim66 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(228deg) translate3d(400px, 107px, 1000px) scale(1);
-            transform: rotate(228deg) translate3d(400px, 107px, 1000px) scale(1);
+    -webkit-transform: rotate(322.5deg) translate3d(816px, 324px, 1000px) scale(1);
+            transform: rotate(322.5deg) translate3d(816px, 324px, 1000px) scale(1);
   }
 }
 
 @keyframes anim66 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(228deg) translate3d(400px, 107px, 1000px) scale(1);
-            transform: rotate(228deg) translate3d(400px, 107px, 1000px) scale(1);
+    -webkit-transform: rotate(322.5deg) translate3d(816px, 324px, 1000px) scale(1);
+            transform: rotate(322.5deg) translate3d(816px, 324px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(67) {
-  border-top: 88px solid #0022ff;
-  border-right: 88px solid transparent;
-  border-left: 88px solid transparent;
-  margin-left: -44px;
-  margin-top: -44px;
+  border-top: 23px solid #00e6ff;
+  border-right: 23px solid transparent;
+  border-left: 23px solid transparent;
+  margin-left: -11.5px;
+  margin-top: -11.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(72deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(72deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(49deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(49deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim67 120s infinite linear;
           animation: anim67 120s infinite linear;
   -webkit-animation-delay: -80.4s;
@@ -2283,29 +2283,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim67 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(108deg) translate3d(791px, 725px, 1000px) scale(1);
-            transform: rotate(108deg) translate3d(791px, 725px, 1000px) scale(1);
+    -webkit-transform: rotate(73.5deg) translate3d(446px, 844px, 1000px) scale(1);
+            transform: rotate(73.5deg) translate3d(446px, 844px, 1000px) scale(1);
   }
 }
 
 @keyframes anim67 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(108deg) translate3d(791px, 725px, 1000px) scale(1);
-            transform: rotate(108deg) translate3d(791px, 725px, 1000px) scale(1);
+    -webkit-transform: rotate(73.5deg) translate3d(446px, 844px, 1000px) scale(1);
+            transform: rotate(73.5deg) translate3d(446px, 844px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(68) {
-  border-top: 74px solid #ff00ee;
-  border-right: 74px solid transparent;
-  border-left: 74px solid transparent;
-  margin-left: -37px;
-  margin-top: -37px;
+  border-top: 14px solid #ff00ae;
+  border-right: 14px solid transparent;
+  border-left: 14px solid transparent;
+  margin-left: -7px;
+  margin-top: -7px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(41deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(41deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(217deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(217deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim68 120s infinite linear;
           animation: anim68 120s infinite linear;
   -webkit-animation-delay: -81.6s;
@@ -2316,29 +2316,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim68 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(61.5deg) translate3d(665px, 287px, 1000px) scale(1);
-            transform: rotate(61.5deg) translate3d(665px, 287px, 1000px) scale(1);
+    -webkit-transform: rotate(325.5deg) translate3d(549px, 964px, 1000px) scale(1);
+            transform: rotate(325.5deg) translate3d(549px, 964px, 1000px) scale(1);
   }
 }
 
 @keyframes anim68 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(61.5deg) translate3d(665px, 287px, 1000px) scale(1);
-            transform: rotate(61.5deg) translate3d(665px, 287px, 1000px) scale(1);
+    -webkit-transform: rotate(325.5deg) translate3d(549px, 964px, 1000px) scale(1);
+            transform: rotate(325.5deg) translate3d(549px, 964px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(69) {
-  border-top: 83px solid #91ff00;
-  border-right: 83px solid transparent;
-  border-left: 83px solid transparent;
-  margin-left: -41.5px;
-  margin-top: -41.5px;
+  border-top: 76px solid #40ff00;
+  border-right: 76px solid transparent;
+  border-left: 76px solid transparent;
+  margin-left: -38px;
+  margin-top: -38px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(104deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(104deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(301deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(301deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim69 120s infinite linear;
           animation: anim69 120s infinite linear;
   -webkit-animation-delay: -82.8s;
@@ -2349,29 +2349,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim69 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(156deg) translate3d(460px, 440px, 1000px) scale(1);
-            transform: rotate(156deg) translate3d(460px, 440px, 1000px) scale(1);
+    -webkit-transform: rotate(451.5deg) translate3d(405px, 547px, 1000px) scale(1);
+            transform: rotate(451.5deg) translate3d(405px, 547px, 1000px) scale(1);
   }
 }
 
 @keyframes anim69 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(156deg) translate3d(460px, 440px, 1000px) scale(1);
-            transform: rotate(156deg) translate3d(460px, 440px, 1000px) scale(1);
+    -webkit-transform: rotate(451.5deg) translate3d(405px, 547px, 1000px) scale(1);
+            transform: rotate(451.5deg) translate3d(405px, 547px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(70) {
-  border-top: 62px solid #ff0084;
-  border-right: 62px solid transparent;
-  border-left: 62px solid transparent;
-  margin-left: -31px;
-  margin-top: -31px;
+  border-top: 60px solid #001aff;
+  border-right: 60px solid transparent;
+  border-left: 60px solid transparent;
+  margin-left: -30px;
+  margin-top: -30px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(360deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(360deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(211deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(211deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim70 120s infinite linear;
           animation: anim70 120s infinite linear;
   -webkit-animation-delay: -84s;
@@ -2382,29 +2382,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim70 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(540deg) translate3d(551px, 82px, 1000px) scale(1);
-            transform: rotate(540deg) translate3d(551px, 82px, 1000px) scale(1);
+    -webkit-transform: rotate(316.5deg) translate3d(319px, 375px, 1000px) scale(1);
+            transform: rotate(316.5deg) translate3d(319px, 375px, 1000px) scale(1);
   }
 }
 
 @keyframes anim70 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(540deg) translate3d(551px, 82px, 1000px) scale(1);
-            transform: rotate(540deg) translate3d(551px, 82px, 1000px) scale(1);
+    -webkit-transform: rotate(316.5deg) translate3d(319px, 375px, 1000px) scale(1);
+            transform: rotate(316.5deg) translate3d(319px, 375px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(71) {
-  border-top: 80px solid #00ffaa;
-  border-right: 80px solid transparent;
-  border-left: 80px solid transparent;
-  margin-left: -40px;
-  margin-top: -40px;
+  border-top: 3px solid #00d5ff;
+  border-right: 3px solid transparent;
+  border-left: 3px solid transparent;
+  margin-left: -1.5px;
+  margin-top: -1.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(202deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(202deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(256deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(256deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim71 120s infinite linear;
           animation: anim71 120s infinite linear;
   -webkit-animation-delay: -85.2s;
@@ -2415,29 +2415,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim71 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(303deg) translate3d(346px, 691px, 1000px) scale(1);
-            transform: rotate(303deg) translate3d(346px, 691px, 1000px) scale(1);
+    -webkit-transform: rotate(384deg) translate3d(909px, 592px, 1000px) scale(1);
+            transform: rotate(384deg) translate3d(909px, 592px, 1000px) scale(1);
   }
 }
 
 @keyframes anim71 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(303deg) translate3d(346px, 691px, 1000px) scale(1);
-            transform: rotate(303deg) translate3d(346px, 691px, 1000px) scale(1);
+    -webkit-transform: rotate(384deg) translate3d(909px, 592px, 1000px) scale(1);
+            transform: rotate(384deg) translate3d(909px, 592px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(72) {
-  border-top: 57px solid #0d00ff;
-  border-right: 57px solid transparent;
-  border-left: 57px solid transparent;
-  margin-left: -28.5px;
-  margin-top: -28.5px;
+  border-top: 66px solid #62ff00;
+  border-right: 66px solid transparent;
+  border-left: 66px solid transparent;
+  margin-left: -33px;
+  margin-top: -33px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(37deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(37deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(73deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(73deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim72 120s infinite linear;
           animation: anim72 120s infinite linear;
   -webkit-animation-delay: -86.4s;
@@ -2448,29 +2448,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim72 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(55.5deg) translate3d(178px, 52px, 1000px) scale(1);
-            transform: rotate(55.5deg) translate3d(178px, 52px, 1000px) scale(1);
+    -webkit-transform: rotate(109.5deg) translate3d(294px, 403px, 1000px) scale(1);
+            transform: rotate(109.5deg) translate3d(294px, 403px, 1000px) scale(1);
   }
 }
 
 @keyframes anim72 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(55.5deg) translate3d(178px, 52px, 1000px) scale(1);
-            transform: rotate(55.5deg) translate3d(178px, 52px, 1000px) scale(1);
+    -webkit-transform: rotate(109.5deg) translate3d(294px, 403px, 1000px) scale(1);
+            transform: rotate(109.5deg) translate3d(294px, 403px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(73) {
-  border-top: 13px solid #ffb700;
-  border-right: 13px solid transparent;
-  border-left: 13px solid transparent;
-  margin-left: -6.5px;
-  margin-top: -6.5px;
+  border-top: 88px solid #ffd000;
+  border-right: 88px solid transparent;
+  border-left: 88px solid transparent;
+  margin-left: -44px;
+  margin-top: -44px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(353deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(353deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(53deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(53deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim73 120s infinite linear;
           animation: anim73 120s infinite linear;
   -webkit-animation-delay: -87.6s;
@@ -2481,29 +2481,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim73 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(529.5deg) translate3d(480px, 575px, 1000px) scale(1);
-            transform: rotate(529.5deg) translate3d(480px, 575px, 1000px) scale(1);
+    -webkit-transform: rotate(79.5deg) translate3d(772px, 130px, 1000px) scale(1);
+            transform: rotate(79.5deg) translate3d(772px, 130px, 1000px) scale(1);
   }
 }
 
 @keyframes anim73 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(529.5deg) translate3d(480px, 575px, 1000px) scale(1);
-            transform: rotate(529.5deg) translate3d(480px, 575px, 1000px) scale(1);
+    -webkit-transform: rotate(79.5deg) translate3d(772px, 130px, 1000px) scale(1);
+            transform: rotate(79.5deg) translate3d(772px, 130px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(74) {
-  border-top: 88px solid #ffee00;
-  border-right: 88px solid transparent;
-  border-left: 88px solid transparent;
-  margin-left: -44px;
-  margin-top: -44px;
+  border-top: 47px solid #33ff00;
+  border-right: 47px solid transparent;
+  border-left: 47px solid transparent;
+  margin-left: -23.5px;
+  margin-top: -23.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(98deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(98deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(4deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(4deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim74 120s infinite linear;
           animation: anim74 120s infinite linear;
   -webkit-animation-delay: -88.8s;
@@ -2514,29 +2514,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim74 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(147deg) translate3d(907px, 542px, 1000px) scale(1);
-            transform: rotate(147deg) translate3d(907px, 542px, 1000px) scale(1);
+    -webkit-transform: rotate(6deg) translate3d(983px, 620px, 1000px) scale(1);
+            transform: rotate(6deg) translate3d(983px, 620px, 1000px) scale(1);
   }
 }
 
 @keyframes anim74 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(147deg) translate3d(907px, 542px, 1000px) scale(1);
-            transform: rotate(147deg) translate3d(907px, 542px, 1000px) scale(1);
+    -webkit-transform: rotate(6deg) translate3d(983px, 620px, 1000px) scale(1);
+            transform: rotate(6deg) translate3d(983px, 620px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(75) {
-  border-top: 88px solid #00ff55;
-  border-right: 88px solid transparent;
-  border-left: 88px solid transparent;
-  margin-left: -44px;
-  margin-top: -44px;
+  border-top: 79px solid yellow;
+  border-right: 79px solid transparent;
+  border-left: 79px solid transparent;
+  margin-left: -39.5px;
+  margin-top: -39.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(196deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(196deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(328deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(328deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim75 120s infinite linear;
           animation: anim75 120s infinite linear;
   -webkit-animation-delay: -90s;
@@ -2547,29 +2547,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim75 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(294deg) translate3d(646px, 547px, 1000px) scale(1);
-            transform: rotate(294deg) translate3d(646px, 547px, 1000px) scale(1);
+    -webkit-transform: rotate(492deg) translate3d(182px, 210px, 1000px) scale(1);
+            transform: rotate(492deg) translate3d(182px, 210px, 1000px) scale(1);
   }
 }
 
 @keyframes anim75 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(294deg) translate3d(646px, 547px, 1000px) scale(1);
-            transform: rotate(294deg) translate3d(646px, 547px, 1000px) scale(1);
+    -webkit-transform: rotate(492deg) translate3d(182px, 210px, 1000px) scale(1);
+            transform: rotate(492deg) translate3d(182px, 210px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(76) {
-  border-top: 31px solid #eeff00;
-  border-right: 31px solid transparent;
-  border-left: 31px solid transparent;
-  margin-left: -15.5px;
-  margin-top: -15.5px;
+  border-top: 33px solid #2600ff;
+  border-right: 33px solid transparent;
+  border-left: 33px solid transparent;
+  margin-left: -16.5px;
+  margin-top: -16.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(291deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(291deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(336deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(336deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim76 120s infinite linear;
           animation: anim76 120s infinite linear;
   -webkit-animation-delay: -91.2s;
@@ -2580,29 +2580,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim76 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(436.5deg) translate3d(889px, 663px, 1000px) scale(1);
-            transform: rotate(436.5deg) translate3d(889px, 663px, 1000px) scale(1);
+    -webkit-transform: rotate(504deg) translate3d(322px, 372px, 1000px) scale(1);
+            transform: rotate(504deg) translate3d(322px, 372px, 1000px) scale(1);
   }
 }
 
 @keyframes anim76 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(436.5deg) translate3d(889px, 663px, 1000px) scale(1);
-            transform: rotate(436.5deg) translate3d(889px, 663px, 1000px) scale(1);
+    -webkit-transform: rotate(504deg) translate3d(322px, 372px, 1000px) scale(1);
+            transform: rotate(504deg) translate3d(322px, 372px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(77) {
-  border-top: 88px solid #ff0044;
-  border-right: 88px solid transparent;
-  border-left: 88px solid transparent;
-  margin-left: -44px;
-  margin-top: -44px;
+  border-top: 77px solid #ff0059;
+  border-right: 77px solid transparent;
+  border-left: 77px solid transparent;
+  margin-left: -38.5px;
+  margin-top: -38.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(270deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(270deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(28deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(28deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim77 120s infinite linear;
           animation: anim77 120s infinite linear;
   -webkit-animation-delay: -92.4s;
@@ -2613,29 +2613,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim77 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(405deg) translate3d(943px, 109px, 1000px) scale(1);
-            transform: rotate(405deg) translate3d(943px, 109px, 1000px) scale(1);
+    -webkit-transform: rotate(42deg) translate3d(872px, 123px, 1000px) scale(1);
+            transform: rotate(42deg) translate3d(872px, 123px, 1000px) scale(1);
   }
 }
 
 @keyframes anim77 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(405deg) translate3d(943px, 109px, 1000px) scale(1);
-            transform: rotate(405deg) translate3d(943px, 109px, 1000px) scale(1);
+    -webkit-transform: rotate(42deg) translate3d(872px, 123px, 1000px) scale(1);
+            transform: rotate(42deg) translate3d(872px, 123px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(78) {
-  border-top: 92px solid #00aaff;
-  border-right: 92px solid transparent;
-  border-left: 92px solid transparent;
-  margin-left: -46px;
-  margin-top: -46px;
+  border-top: 21px solid #00ff3c;
+  border-right: 21px solid transparent;
+  border-left: 21px solid transparent;
+  margin-left: -10.5px;
+  margin-top: -10.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(192deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(192deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(297deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(297deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim78 120s infinite linear;
           animation: anim78 120s infinite linear;
   -webkit-animation-delay: -93.6s;
@@ -2646,29 +2646,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim78 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(288deg) translate3d(744px, 175px, 1000px) scale(1);
-            transform: rotate(288deg) translate3d(744px, 175px, 1000px) scale(1);
+    -webkit-transform: rotate(445.5deg) translate3d(298px, 733px, 1000px) scale(1);
+            transform: rotate(445.5deg) translate3d(298px, 733px, 1000px) scale(1);
   }
 }
 
 @keyframes anim78 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(288deg) translate3d(744px, 175px, 1000px) scale(1);
-            transform: rotate(288deg) translate3d(744px, 175px, 1000px) scale(1);
+    -webkit-transform: rotate(445.5deg) translate3d(298px, 733px, 1000px) scale(1);
+            transform: rotate(445.5deg) translate3d(298px, 733px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(79) {
-  border-top: 47px solid #ffb300;
-  border-right: 47px solid transparent;
-  border-left: 47px solid transparent;
-  margin-left: -23.5px;
-  margin-top: -23.5px;
+  border-top: 14px solid #ff001a;
+  border-right: 14px solid transparent;
+  border-left: 14px solid transparent;
+  margin-left: -7px;
+  margin-top: -7px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(63deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(63deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(184deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(184deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim79 120s infinite linear;
           animation: anim79 120s infinite linear;
   -webkit-animation-delay: -94.8s;
@@ -2679,29 +2679,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim79 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(94.5deg) translate3d(814px, 134px, 1000px) scale(1);
-            transform: rotate(94.5deg) translate3d(814px, 134px, 1000px) scale(1);
+    -webkit-transform: rotate(276deg) translate3d(929px, 650px, 1000px) scale(1);
+            transform: rotate(276deg) translate3d(929px, 650px, 1000px) scale(1);
   }
 }
 
 @keyframes anim79 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(94.5deg) translate3d(814px, 134px, 1000px) scale(1);
-            transform: rotate(94.5deg) translate3d(814px, 134px, 1000px) scale(1);
+    -webkit-transform: rotate(276deg) translate3d(929px, 650px, 1000px) scale(1);
+            transform: rotate(276deg) translate3d(929px, 650px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(80) {
-  border-top: 78px solid #0022ff;
-  border-right: 78px solid transparent;
-  border-left: 78px solid transparent;
-  margin-left: -39px;
-  margin-top: -39px;
+  border-top: 100px solid #0084ff;
+  border-right: 100px solid transparent;
+  border-left: 100px solid transparent;
+  margin-left: -50px;
+  margin-top: -50px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(86deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(86deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(96deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(96deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim80 120s infinite linear;
           animation: anim80 120s infinite linear;
   -webkit-animation-delay: -96s;
@@ -2712,29 +2712,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim80 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(129deg) translate3d(558px, 378px, 1000px) scale(1);
-            transform: rotate(129deg) translate3d(558px, 378px, 1000px) scale(1);
+    -webkit-transform: rotate(144deg) translate3d(709px, 311px, 1000px) scale(1);
+            transform: rotate(144deg) translate3d(709px, 311px, 1000px) scale(1);
   }
 }
 
 @keyframes anim80 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(129deg) translate3d(558px, 378px, 1000px) scale(1);
-            transform: rotate(129deg) translate3d(558px, 378px, 1000px) scale(1);
+    -webkit-transform: rotate(144deg) translate3d(709px, 311px, 1000px) scale(1);
+            transform: rotate(144deg) translate3d(709px, 311px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(81) {
-  border-top: 56px solid #002bff;
-  border-right: 56px solid transparent;
-  border-left: 56px solid transparent;
-  margin-left: -28px;
-  margin-top: -28px;
+  border-top: 29px solid #f200ff;
+  border-right: 29px solid transparent;
+  border-left: 29px solid transparent;
+  margin-left: -14.5px;
+  margin-top: -14.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(39deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(39deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(101deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(101deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim81 120s infinite linear;
           animation: anim81 120s infinite linear;
   -webkit-animation-delay: -97.2s;
@@ -2745,29 +2745,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim81 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(58.5deg) translate3d(837px, 42px, 1000px) scale(1);
-            transform: rotate(58.5deg) translate3d(837px, 42px, 1000px) scale(1);
+    -webkit-transform: rotate(151.5deg) translate3d(5px, 568px, 1000px) scale(1);
+            transform: rotate(151.5deg) translate3d(5px, 568px, 1000px) scale(1);
   }
 }
 
 @keyframes anim81 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(58.5deg) translate3d(837px, 42px, 1000px) scale(1);
-            transform: rotate(58.5deg) translate3d(837px, 42px, 1000px) scale(1);
+    -webkit-transform: rotate(151.5deg) translate3d(5px, 568px, 1000px) scale(1);
+            transform: rotate(151.5deg) translate3d(5px, 568px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(82) {
-  border-top: 30px solid #11ff00;
-  border-right: 30px solid transparent;
-  border-left: 30px solid transparent;
-  margin-left: -15px;
-  margin-top: -15px;
+  border-top: 53px solid #8cff00;
+  border-right: 53px solid transparent;
+  border-left: 53px solid transparent;
+  margin-left: -26.5px;
+  margin-top: -26.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(360deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(360deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(108deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(108deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim82 120s infinite linear;
           animation: anim82 120s infinite linear;
   -webkit-animation-delay: -98.4s;
@@ -2778,29 +2778,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim82 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(540deg) translate3d(478px, 211px, 1000px) scale(1);
-            transform: rotate(540deg) translate3d(478px, 211px, 1000px) scale(1);
+    -webkit-transform: rotate(162deg) translate3d(615px, 302px, 1000px) scale(1);
+            transform: rotate(162deg) translate3d(615px, 302px, 1000px) scale(1);
   }
 }
 
 @keyframes anim82 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(540deg) translate3d(478px, 211px, 1000px) scale(1);
-            transform: rotate(540deg) translate3d(478px, 211px, 1000px) scale(1);
+    -webkit-transform: rotate(162deg) translate3d(615px, 302px, 1000px) scale(1);
+            transform: rotate(162deg) translate3d(615px, 302px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(83) {
-  border-top: 11px solid #59ff00;
-  border-right: 11px solid transparent;
-  border-left: 11px solid transparent;
-  margin-left: -5.5px;
-  margin-top: -5.5px;
+  border-top: 55px solid #6fff00;
+  border-right: 55px solid transparent;
+  border-left: 55px solid transparent;
+  margin-left: -27.5px;
+  margin-top: -27.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(6deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(6deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(243deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(243deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim83 120s infinite linear;
           animation: anim83 120s infinite linear;
   -webkit-animation-delay: -99.6s;
@@ -2811,29 +2811,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim83 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(9deg) translate3d(57px, 906px, 1000px) scale(1);
-            transform: rotate(9deg) translate3d(57px, 906px, 1000px) scale(1);
+    -webkit-transform: rotate(364.5deg) translate3d(184px, 68px, 1000px) scale(1);
+            transform: rotate(364.5deg) translate3d(184px, 68px, 1000px) scale(1);
   }
 }
 
 @keyframes anim83 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(9deg) translate3d(57px, 906px, 1000px) scale(1);
-            transform: rotate(9deg) translate3d(57px, 906px, 1000px) scale(1);
+    -webkit-transform: rotate(364.5deg) translate3d(184px, 68px, 1000px) scale(1);
+            transform: rotate(364.5deg) translate3d(184px, 68px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(84) {
-  border-top: 67px solid #ea00ff;
-  border-right: 67px solid transparent;
-  border-left: 67px solid transparent;
-  margin-left: -33.5px;
-  margin-top: -33.5px;
+  border-top: 64px solid #ff003c;
+  border-right: 64px solid transparent;
+  border-left: 64px solid transparent;
+  margin-left: -32px;
+  margin-top: -32px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(105deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(105deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(330deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(330deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim84 120s infinite linear;
           animation: anim84 120s infinite linear;
   -webkit-animation-delay: -100.8s;
@@ -2844,29 +2844,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim84 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(157.5deg) translate3d(736px, 615px, 1000px) scale(1);
-            transform: rotate(157.5deg) translate3d(736px, 615px, 1000px) scale(1);
+    -webkit-transform: rotate(495deg) translate3d(586px, 510px, 1000px) scale(1);
+            transform: rotate(495deg) translate3d(586px, 510px, 1000px) scale(1);
   }
 }
 
 @keyframes anim84 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(157.5deg) translate3d(736px, 615px, 1000px) scale(1);
-            transform: rotate(157.5deg) translate3d(736px, 615px, 1000px) scale(1);
+    -webkit-transform: rotate(495deg) translate3d(586px, 510px, 1000px) scale(1);
+            transform: rotate(495deg) translate3d(586px, 510px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(85) {
-  border-top: 81px solid cyan;
-  border-right: 81px solid transparent;
-  border-left: 81px solid transparent;
-  margin-left: -40.5px;
-  margin-top: -40.5px;
+  border-top: 36px solid #00ff55;
+  border-right: 36px solid transparent;
+  border-left: 36px solid transparent;
+  margin-left: -18px;
+  margin-top: -18px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(293deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(293deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(169deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(169deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim85 120s infinite linear;
           animation: anim85 120s infinite linear;
   -webkit-animation-delay: -102s;
@@ -2877,29 +2877,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim85 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(439.5deg) translate3d(137px, 16px, 1000px) scale(1);
-            transform: rotate(439.5deg) translate3d(137px, 16px, 1000px) scale(1);
+    -webkit-transform: rotate(253.5deg) translate3d(399px, 466px, 1000px) scale(1);
+            transform: rotate(253.5deg) translate3d(399px, 466px, 1000px) scale(1);
   }
 }
 
 @keyframes anim85 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(439.5deg) translate3d(137px, 16px, 1000px) scale(1);
-            transform: rotate(439.5deg) translate3d(137px, 16px, 1000px) scale(1);
+    -webkit-transform: rotate(253.5deg) translate3d(399px, 466px, 1000px) scale(1);
+            transform: rotate(253.5deg) translate3d(399px, 466px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(86) {
-  border-top: 91px solid #ddff00;
-  border-right: 91px solid transparent;
-  border-left: 91px solid transparent;
-  margin-left: -45.5px;
-  margin-top: -45.5px;
+  border-top: 14px solid #00ff6f;
+  border-right: 14px solid transparent;
+  border-left: 14px solid transparent;
+  margin-left: -7px;
+  margin-top: -7px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(324deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(324deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(122deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(122deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim86 120s infinite linear;
           animation: anim86 120s infinite linear;
   -webkit-animation-delay: -103.2s;
@@ -2910,29 +2910,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim86 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(486deg) translate3d(2px, 559px, 1000px) scale(1);
-            transform: rotate(486deg) translate3d(2px, 559px, 1000px) scale(1);
+    -webkit-transform: rotate(183deg) translate3d(198px, 928px, 1000px) scale(1);
+            transform: rotate(183deg) translate3d(198px, 928px, 1000px) scale(1);
   }
 }
 
 @keyframes anim86 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(486deg) translate3d(2px, 559px, 1000px) scale(1);
-            transform: rotate(486deg) translate3d(2px, 559px, 1000px) scale(1);
+    -webkit-transform: rotate(183deg) translate3d(198px, 928px, 1000px) scale(1);
+            transform: rotate(183deg) translate3d(198px, 928px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(87) {
-  border-top: 38px solid #ff00c8;
-  border-right: 38px solid transparent;
-  border-left: 38px solid transparent;
-  margin-left: -19px;
-  margin-top: -19px;
+  border-top: 70px solid #4800ff;
+  border-right: 70px solid transparent;
+  border-left: 70px solid transparent;
+  margin-left: -35px;
+  margin-top: -35px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(337deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(337deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(24deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(24deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim87 120s infinite linear;
           animation: anim87 120s infinite linear;
   -webkit-animation-delay: -104.4s;
@@ -2943,29 +2943,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim87 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(505.5deg) translate3d(480px, 368px, 1000px) scale(1);
-            transform: rotate(505.5deg) translate3d(480px, 368px, 1000px) scale(1);
+    -webkit-transform: rotate(36deg) translate3d(445px, 389px, 1000px) scale(1);
+            transform: rotate(36deg) translate3d(445px, 389px, 1000px) scale(1);
   }
 }
 
 @keyframes anim87 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(505.5deg) translate3d(480px, 368px, 1000px) scale(1);
-            transform: rotate(505.5deg) translate3d(480px, 368px, 1000px) scale(1);
+    -webkit-transform: rotate(36deg) translate3d(445px, 389px, 1000px) scale(1);
+            transform: rotate(36deg) translate3d(445px, 389px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(88) {
-  border-top: 47px solid #00ffc4;
-  border-right: 47px solid transparent;
-  border-left: 47px solid transparent;
-  margin-left: -23.5px;
-  margin-top: -23.5px;
+  border-top: 58px solid #00ff5e;
+  border-right: 58px solid transparent;
+  border-left: 58px solid transparent;
+  margin-left: -29px;
+  margin-top: -29px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(19deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(19deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(299deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(299deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim88 120s infinite linear;
           animation: anim88 120s infinite linear;
   -webkit-animation-delay: -105.6s;
@@ -2976,29 +2976,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim88 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(28.5deg) translate3d(526px, 604px, 1000px) scale(1);
-            transform: rotate(28.5deg) translate3d(526px, 604px, 1000px) scale(1);
+    -webkit-transform: rotate(448.5deg) translate3d(270px, 831px, 1000px) scale(1);
+            transform: rotate(448.5deg) translate3d(270px, 831px, 1000px) scale(1);
   }
 }
 
 @keyframes anim88 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(28.5deg) translate3d(526px, 604px, 1000px) scale(1);
-            transform: rotate(28.5deg) translate3d(526px, 604px, 1000px) scale(1);
+    -webkit-transform: rotate(448.5deg) translate3d(270px, 831px, 1000px) scale(1);
+            transform: rotate(448.5deg) translate3d(270px, 831px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(89) {
-  border-top: 72px solid #d9ff00;
-  border-right: 72px solid transparent;
-  border-left: 72px solid transparent;
-  margin-left: -36px;
-  margin-top: -36px;
+  border-top: 42px solid #00ff51;
+  border-right: 42px solid transparent;
+  border-left: 42px solid transparent;
+  margin-left: -21px;
+  margin-top: -21px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(267deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(267deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(288deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(288deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim89 120s infinite linear;
           animation: anim89 120s infinite linear;
   -webkit-animation-delay: -106.8s;
@@ -3009,29 +3009,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim89 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(400.5deg) translate3d(596px, 956px, 1000px) scale(1);
-            transform: rotate(400.5deg) translate3d(596px, 956px, 1000px) scale(1);
+    -webkit-transform: rotate(432deg) translate3d(175px, 385px, 1000px) scale(1);
+            transform: rotate(432deg) translate3d(175px, 385px, 1000px) scale(1);
   }
 }
 
 @keyframes anim89 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(400.5deg) translate3d(596px, 956px, 1000px) scale(1);
-            transform: rotate(400.5deg) translate3d(596px, 956px, 1000px) scale(1);
+    -webkit-transform: rotate(432deg) translate3d(175px, 385px, 1000px) scale(1);
+            transform: rotate(432deg) translate3d(175px, 385px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(90) {
-  border-top: 26px solid #00b7ff;
-  border-right: 26px solid transparent;
-  border-left: 26px solid transparent;
-  margin-left: -13px;
-  margin-top: -13px;
+  border-top: 71px solid #ff0009;
+  border-right: 71px solid transparent;
+  border-left: 71px solid transparent;
+  margin-left: -35.5px;
+  margin-top: -35.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(278deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(278deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(163deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(163deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim90 120s infinite linear;
           animation: anim90 120s infinite linear;
   -webkit-animation-delay: -108s;
@@ -3042,29 +3042,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim90 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(417deg) translate3d(297px, 822px, 1000px) scale(1);
-            transform: rotate(417deg) translate3d(297px, 822px, 1000px) scale(1);
+    -webkit-transform: rotate(244.5deg) translate3d(464px, 223px, 1000px) scale(1);
+            transform: rotate(244.5deg) translate3d(464px, 223px, 1000px) scale(1);
   }
 }
 
 @keyframes anim90 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(417deg) translate3d(297px, 822px, 1000px) scale(1);
-            transform: rotate(417deg) translate3d(297px, 822px, 1000px) scale(1);
+    -webkit-transform: rotate(244.5deg) translate3d(464px, 223px, 1000px) scale(1);
+            transform: rotate(244.5deg) translate3d(464px, 223px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(91) {
-  border-top: 93px solid #00f2ff;
-  border-right: 93px solid transparent;
-  border-left: 93px solid transparent;
-  margin-left: -46.5px;
-  margin-top: -46.5px;
+  border-top: 59px solid #00ff3c;
+  border-right: 59px solid transparent;
+  border-left: 59px solid transparent;
+  margin-left: -29.5px;
+  margin-top: -29.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(40deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(40deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(191deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(191deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim91 120s infinite linear;
           animation: anim91 120s infinite linear;
   -webkit-animation-delay: -109.2s;
@@ -3075,29 +3075,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim91 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(60deg) translate3d(890px, 89px, 1000px) scale(1);
-            transform: rotate(60deg) translate3d(890px, 89px, 1000px) scale(1);
+    -webkit-transform: rotate(286.5deg) translate3d(836px, 407px, 1000px) scale(1);
+            transform: rotate(286.5deg) translate3d(836px, 407px, 1000px) scale(1);
   }
 }
 
 @keyframes anim91 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(60deg) translate3d(890px, 89px, 1000px) scale(1);
-            transform: rotate(60deg) translate3d(890px, 89px, 1000px) scale(1);
+    -webkit-transform: rotate(286.5deg) translate3d(836px, 407px, 1000px) scale(1);
+            transform: rotate(286.5deg) translate3d(836px, 407px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(92) {
-  border-top: 33px solid #8cff00;
-  border-right: 33px solid transparent;
-  border-left: 33px solid transparent;
-  margin-left: -16.5px;
-  margin-top: -16.5px;
+  border-top: 85px solid #f200ff;
+  border-right: 85px solid transparent;
+  border-left: 85px solid transparent;
+  margin-left: -42.5px;
+  margin-top: -42.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(174deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(174deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(74deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(74deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim92 120s infinite linear;
           animation: anim92 120s infinite linear;
   -webkit-animation-delay: -110.4s;
@@ -3108,29 +3108,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim92 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(261deg) translate3d(894px, 923px, 1000px) scale(1);
-            transform: rotate(261deg) translate3d(894px, 923px, 1000px) scale(1);
+    -webkit-transform: rotate(111deg) translate3d(454px, 590px, 1000px) scale(1);
+            transform: rotate(111deg) translate3d(454px, 590px, 1000px) scale(1);
   }
 }
 
 @keyframes anim92 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(261deg) translate3d(894px, 923px, 1000px) scale(1);
-            transform: rotate(261deg) translate3d(894px, 923px, 1000px) scale(1);
+    -webkit-transform: rotate(111deg) translate3d(454px, 590px, 1000px) scale(1);
+            transform: rotate(111deg) translate3d(454px, 590px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(93) {
-  border-top: 88px solid #ff8000;
-  border-right: 88px solid transparent;
-  border-left: 88px solid transparent;
-  margin-left: -44px;
-  margin-top: -44px;
+  border-top: 83px solid #ff0d00;
+  border-right: 83px solid transparent;
+  border-left: 83px solid transparent;
+  margin-left: -41.5px;
+  margin-top: -41.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(24deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(24deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(296deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(296deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim93 120s infinite linear;
           animation: anim93 120s infinite linear;
   -webkit-animation-delay: -111.6s;
@@ -3141,29 +3141,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim93 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(36deg) translate3d(506px, 131px, 1000px) scale(1);
-            transform: rotate(36deg) translate3d(506px, 131px, 1000px) scale(1);
+    -webkit-transform: rotate(444deg) translate3d(447px, 206px, 1000px) scale(1);
+            transform: rotate(444deg) translate3d(447px, 206px, 1000px) scale(1);
   }
 }
 
 @keyframes anim93 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(36deg) translate3d(506px, 131px, 1000px) scale(1);
-            transform: rotate(36deg) translate3d(506px, 131px, 1000px) scale(1);
+    -webkit-transform: rotate(444deg) translate3d(447px, 206px, 1000px) scale(1);
+            transform: rotate(444deg) translate3d(447px, 206px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(94) {
-  border-top: 32px solid #0084ff;
+  border-top: 32px solid #fff200;
   border-right: 32px solid transparent;
   border-left: 32px solid transparent;
   margin-left: -16px;
   margin-top: -16px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(153deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(153deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(144deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(144deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim94 120s infinite linear;
           animation: anim94 120s infinite linear;
   -webkit-animation-delay: -112.8s;
@@ -3174,29 +3174,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim94 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(229.5deg) translate3d(267px, 487px, 1000px) scale(1);
-            transform: rotate(229.5deg) translate3d(267px, 487px, 1000px) scale(1);
+    -webkit-transform: rotate(216deg) translate3d(637px, 407px, 1000px) scale(1);
+            transform: rotate(216deg) translate3d(637px, 407px, 1000px) scale(1);
   }
 }
 
 @keyframes anim94 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(229.5deg) translate3d(267px, 487px, 1000px) scale(1);
-            transform: rotate(229.5deg) translate3d(267px, 487px, 1000px) scale(1);
+    -webkit-transform: rotate(216deg) translate3d(637px, 407px, 1000px) scale(1);
+            transform: rotate(216deg) translate3d(637px, 407px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(95) {
-  border-top: 99px solid #00eaff;
-  border-right: 99px solid transparent;
-  border-left: 99px solid transparent;
-  margin-left: -49.5px;
-  margin-top: -49.5px;
+  border-top: 77px solid #d5ff00;
+  border-right: 77px solid transparent;
+  border-left: 77px solid transparent;
+  margin-left: -38.5px;
+  margin-top: -38.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(360deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(360deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(247deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(247deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim95 120s infinite linear;
           animation: anim95 120s infinite linear;
   -webkit-animation-delay: -114s;
@@ -3207,29 +3207,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim95 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(540deg) translate3d(372px, 791px, 1000px) scale(1);
-            transform: rotate(540deg) translate3d(372px, 791px, 1000px) scale(1);
+    -webkit-transform: rotate(370.5deg) translate3d(399px, 525px, 1000px) scale(1);
+            transform: rotate(370.5deg) translate3d(399px, 525px, 1000px) scale(1);
   }
 }
 
 @keyframes anim95 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(540deg) translate3d(372px, 791px, 1000px) scale(1);
-            transform: rotate(540deg) translate3d(372px, 791px, 1000px) scale(1);
+    -webkit-transform: rotate(370.5deg) translate3d(399px, 525px, 1000px) scale(1);
+            transform: rotate(370.5deg) translate3d(399px, 525px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(96) {
-  border-top: 50px solid red;
-  border-right: 50px solid transparent;
-  border-left: 50px solid transparent;
-  margin-left: -25px;
-  margin-top: -25px;
+  border-top: 90px solid #00ffa2;
+  border-right: 90px solid transparent;
+  border-left: 90px solid transparent;
+  margin-left: -45px;
+  margin-top: -45px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(159deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(159deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(341deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(341deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim96 120s infinite linear;
           animation: anim96 120s infinite linear;
   -webkit-animation-delay: -115.2s;
@@ -3240,29 +3240,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim96 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(238.5deg) translate3d(872px, 313px, 1000px) scale(1);
-            transform: rotate(238.5deg) translate3d(872px, 313px, 1000px) scale(1);
+    -webkit-transform: rotate(511.5deg) translate3d(648px, 303px, 1000px) scale(1);
+            transform: rotate(511.5deg) translate3d(648px, 303px, 1000px) scale(1);
   }
 }
 
 @keyframes anim96 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(238.5deg) translate3d(872px, 313px, 1000px) scale(1);
-            transform: rotate(238.5deg) translate3d(872px, 313px, 1000px) scale(1);
+    -webkit-transform: rotate(511.5deg) translate3d(648px, 303px, 1000px) scale(1);
+            transform: rotate(511.5deg) translate3d(648px, 303px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(97) {
-  border-top: 44px solid #ffa200;
-  border-right: 44px solid transparent;
-  border-left: 44px solid transparent;
-  margin-left: -22px;
-  margin-top: -22px;
+  border-top: 45px solid #ffb700;
+  border-right: 45px solid transparent;
+  border-left: 45px solid transparent;
+  margin-left: -22.5px;
+  margin-top: -22.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(173deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(173deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(84deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(84deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim97 120s infinite linear;
           animation: anim97 120s infinite linear;
   -webkit-animation-delay: -116.4s;
@@ -3273,29 +3273,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim97 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(259.5deg) translate3d(874px, 983px, 1000px) scale(1);
-            transform: rotate(259.5deg) translate3d(874px, 983px, 1000px) scale(1);
+    -webkit-transform: rotate(126deg) translate3d(230px, 47px, 1000px) scale(1);
+            transform: rotate(126deg) translate3d(230px, 47px, 1000px) scale(1);
   }
 }
 
 @keyframes anim97 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(259.5deg) translate3d(874px, 983px, 1000px) scale(1);
-            transform: rotate(259.5deg) translate3d(874px, 983px, 1000px) scale(1);
+    -webkit-transform: rotate(126deg) translate3d(230px, 47px, 1000px) scale(1);
+            transform: rotate(126deg) translate3d(230px, 47px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(98) {
-  border-top: 1px solid #ff6200;
-  border-right: 1px solid transparent;
-  border-left: 1px solid transparent;
-  margin-left: -0.5px;
-  margin-top: -0.5px;
+  border-top: 79px solid #59ff00;
+  border-right: 79px solid transparent;
+  border-left: 79px solid transparent;
+  margin-left: -39.5px;
+  margin-top: -39.5px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(253deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(253deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(40deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(40deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim98 120s infinite linear;
           animation: anim98 120s infinite linear;
   -webkit-animation-delay: -117.6s;
@@ -3306,29 +3306,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim98 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(379.5deg) translate3d(966px, 880px, 1000px) scale(1);
-            transform: rotate(379.5deg) translate3d(966px, 880px, 1000px) scale(1);
+    -webkit-transform: rotate(60deg) translate3d(71px, 265px, 1000px) scale(1);
+            transform: rotate(60deg) translate3d(71px, 265px, 1000px) scale(1);
   }
 }
 
 @keyframes anim98 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(379.5deg) translate3d(966px, 880px, 1000px) scale(1);
-            transform: rotate(379.5deg) translate3d(966px, 880px, 1000px) scale(1);
+    -webkit-transform: rotate(60deg) translate3d(71px, 265px, 1000px) scale(1);
+            transform: rotate(60deg) translate3d(71px, 265px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(99) {
-  border-top: 29px solid #00ff0d;
-  border-right: 29px solid transparent;
-  border-left: 29px solid transparent;
-  margin-left: -14.5px;
-  margin-top: -14.5px;
+  border-top: 6px solid #ff0004;
+  border-right: 6px solid transparent;
+  border-left: 6px solid transparent;
+  margin-left: -3px;
+  margin-top: -3px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(101deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(101deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(253deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(253deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim99 120s infinite linear;
           animation: anim99 120s infinite linear;
   -webkit-animation-delay: -118.8s;
@@ -3339,29 +3339,29 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim99 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(151.5deg) translate3d(295px, 827px, 1000px) scale(1);
-            transform: rotate(151.5deg) translate3d(295px, 827px, 1000px) scale(1);
+    -webkit-transform: rotate(379.5deg) translate3d(716px, 301px, 1000px) scale(1);
+            transform: rotate(379.5deg) translate3d(716px, 301px, 1000px) scale(1);
   }
 }
 
 @keyframes anim99 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(151.5deg) translate3d(295px, 827px, 1000px) scale(1);
-            transform: rotate(151.5deg) translate3d(295px, 827px, 1000px) scale(1);
+    -webkit-transform: rotate(379.5deg) translate3d(716px, 301px, 1000px) scale(1);
+            transform: rotate(379.5deg) translate3d(716px, 301px, 1000px) scale(1);
   }
 }
 
 .tri:nth-child(100) {
-  border-top: 40px solid #ffbf00;
-  border-right: 40px solid transparent;
-  border-left: 40px solid transparent;
-  margin-left: -20px;
-  margin-top: -20px;
+  border-top: 6px solid #ff0077;
+  border-right: 6px solid transparent;
+  border-left: 6px solid transparent;
+  margin-left: -3px;
+  margin-top: -3px;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-  -webkit-transform: rotate(188deg) translate3d(0, 0, -1500px) scale(0);
-          transform: rotate(188deg) translate3d(0, 0, -1500px) scale(0);
+  -webkit-transform: rotate(228deg) translate3d(0, 0, -1500px) scale(0);
+          transform: rotate(228deg) translate3d(0, 0, -1500px) scale(0);
   -webkit-animation: anim100 120s infinite linear;
           animation: anim100 120s infinite linear;
   -webkit-animation-delay: -120s;
@@ -3372,16 +3372,16 @@ body::-webkit-scrollbar-thumb {
 @-webkit-keyframes anim100 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(282deg) translate3d(417px, 239px, 1000px) scale(1);
-            transform: rotate(282deg) translate3d(417px, 239px, 1000px) scale(1);
+    -webkit-transform: rotate(342deg) translate3d(564px, 14px, 1000px) scale(1);
+            transform: rotate(342deg) translate3d(564px, 14px, 1000px) scale(1);
   }
 }
 
 @keyframes anim100 {
   0% {
     opacity: 1;
-    -webkit-transform: rotate(282deg) translate3d(417px, 239px, 1000px) scale(1);
-            transform: rotate(282deg) translate3d(417px, 239px, 1000px) scale(1);
+    -webkit-transform: rotate(342deg) translate3d(564px, 14px, 1000px) scale(1);
+            transform: rotate(342deg) translate3d(564px, 14px, 1000px) scale(1);
   }
 }
 
@@ -4133,6 +4133,12 @@ h4 {
 
 .header-section__content-container {
   max-width: 760px;
+}
+
+@media (max-width: 960px) {
+  .header-section__content-container {
+    width: 90%;
+  }
 }
 
 .header-section__content-container .subheading-text {
